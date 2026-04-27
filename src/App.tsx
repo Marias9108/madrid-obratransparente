@@ -105,10 +105,10 @@ function useData<T>(url: string, fallback: T): T {
 
 function BigNumber({ value, label, sub, color = 'text-blue-700', bg = 'bg-white' }: { value: string; label: string; sub?: string; color?: string; bg?: string }) {
   return (
-    <div className={`${bg} rounded-2xl shadow-sm border border-gray-100 p-6 text-center hover:shadow-md transition-shadow`}>
-      <p className={'text-4xl font-extrabold ' + color}>{value}</p>
-      <p className="text-sm font-semibold text-gray-700 mt-2">{label}</p>
-      {sub && <p className="text-xs text-gray-400 mt-1">{sub}</p>}
+    <div className={`${bg} rounded-2xl shadow-sm border border-gray-100 p-3 sm:p-6 text-center hover:shadow-md transition-shadow`}>
+      <p className={'text-2xl sm:text-4xl font-extrabold ' + color}>{value}</p>
+      <p className="text-[11px] sm:text-sm font-semibold text-gray-700 mt-1 sm:mt-2">{label}</p>
+      {sub && <p className="text-[10px] sm:text-xs text-gray-400 mt-0.5 sm:mt-1">{sub}</p>}
     </div>
   )
 }
@@ -152,7 +152,7 @@ function PanelTab({ kpis, incidencias }: { kpis: KPIs; incidencias: IncidenciaCr
 
   return (
     <div className="space-y-6">
-      <div className="grid grid-cols-4 gap-4">
+      <div className="grid grid-cols-2 sm:grid-cols-4 gap-3 sm:gap-4">
         <BigNumber value={kpis.pct_obras_en_plazo + '%'} label="Obras ejecutadas en plazo en 2025" color="text-blue-700" bg="bg-blue-50" />
         <BigNumber value={kpis.desviacion_media_presupuesto + '%'} label="Desviación Presupuesto Inversiones 2025" color="text-amber-700" bg="bg-amber-50" />
         <BigNumber value={String(kpis.num_obras_activas)} label="Obras Activas" color="text-emerald-700" bg="bg-emerald-50" />
@@ -401,7 +401,7 @@ function ObrasMayoresTab({ obras, alertas }: { obras: ObraMayor[], alertas: Aler
 
   return (
     <div className="space-y-4">
-      <div className="grid grid-cols-5 gap-3">
+      <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-5 gap-3">
         {kpiItems.map(item => (
           <div key={item.key} className="text-center p-3 rounded-xl cursor-pointer transition-all bg-white shadow-sm border border-gray-100"
             style={{ backgroundColor: filtroStatus === item.key ? item.color + '20' : item.bg, border: filtroStatus === item.key ? `2px solid ${item.color}` : '1px solid #f3f4f6' }}
@@ -423,7 +423,7 @@ function ObrasMayoresTab({ obras, alertas }: { obras: ObraMayor[], alertas: Aler
             {tiposObra.map(t => <option key={t}>{t}</option>)}
           </select>
         </div>
-        <div className="flex items-center gap-2 flex-1 min-w-64">
+        <div className="flex items-center gap-2 flex-1 min-w-0 sm:min-w-64">
           <label className="text-xs text-gray-500 whitespace-nowrap">Presupuesto:</label>
           <div className="relative flex-1 h-8 flex items-center">
             <div className="absolute h-1 bg-gray-200 rounded w-full" />
@@ -1006,7 +1006,7 @@ function EdificiosTab({ edificios }: { edificios: EdificioPublico[] }) {
         </div>
       </div>
 
-      <div className="grid grid-cols-2 gap-3">
+      <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
         <div className="bg-white rounded-xl shadow-sm border border-gray-100 p-4 text-center">
           <p className="text-2xl font-bold text-purple-700">{filtered.length}</p>
           <p className="text-xs text-gray-500">Proyectos</p>
@@ -1062,7 +1062,7 @@ function PresupuestoCombinedTab({ prediccion, presupuestos }: { prediccion: Pred
 
   return (
     <div className="space-y-4">
-      <div className="grid grid-cols-2 lg:grid-cols-4 gap-4">
+      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-3 sm:gap-4">
         <BigNumber value={formatEur(prediccion.presupuesto_original)} label="Presupuesto Original 2026" color="text-blue-600" />
         <BigNumber value={prediccion.desviacion_historica_pct + '%'} label="Desviación Histórica Media" color="text-amber-600" />
         <BigNumber value={formatEur(prediccion.desviacion_estimada)} label="Desviación Estimada 2026" sub="Infraejecución proyectada" color="text-rose-600" />
@@ -1258,7 +1258,7 @@ Si no tienes datos suficientes para responder algo, dilo honestamente.`
 
       {/* Chat panel */}
       {open && (
-        <div className="fixed bottom-24 right-6 z-[9999] w-96 max-h-[520px] bg-white rounded-2xl shadow-2xl border border-gray-200 flex flex-col overflow-hidden">
+        <div className="fixed bottom-24 right-3 left-3 sm:left-auto sm:right-6 z-[9999] sm:w-96 max-h-[520px] bg-white rounded-2xl shadow-2xl border border-gray-200 flex flex-col overflow-hidden">
           <div className="bg-gradient-to-r from-blue-600 to-indigo-600 p-3 flex items-center gap-3 shrink-0">
             <MessageCircle size={20} className="text-white" />
             <div className="flex-1">
