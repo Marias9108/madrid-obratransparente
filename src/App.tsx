@@ -415,7 +415,7 @@ function ObrasMayoresTab({ obras, alertas }: { obras: ObraMayor[], alertas: Aler
         ))}
       </div>
 
-      <div className="flex flex-wrap items-center gap-3 bg-white rounded-xl p-4 border border-gray-100">
+      <div className="flex flex-col sm:flex-row sm:items-center gap-3 bg-white rounded-xl p-4 border border-gray-100">
         <div className="flex items-center gap-2">
           <label className="text-xs text-gray-500">Tipo:</label>
           <select value={filtroTipo} onChange={e => setFiltroTipo(e.target.value)}
@@ -423,7 +423,7 @@ function ObrasMayoresTab({ obras, alertas }: { obras: ObraMayor[], alertas: Aler
             {tiposObra.map(t => <option key={t}>{t}</option>)}
           </select>
         </div>
-        <div className="flex items-center gap-2 flex-1 min-w-0 sm:min-w-64">
+        <div className="flex items-center gap-2 flex-1 min-w-0">
           <label className="text-xs text-gray-500 whitespace-nowrap">Presupuesto:</label>
           <div className="relative flex-1 h-8 flex items-center">
             <div className="absolute h-1 bg-gray-200 rounded w-full" />
