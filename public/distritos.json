@@ -1,0 +1,385 @@
+[
+  {
+    "distrito": "ARGANZUELA",
+    "total_licencias": 414,
+    "direcciones_recurrentes": 15,
+    "tipos": {
+      "CALA PROGRAMADA": 156,
+      "AVERÍA URGENTE": 160,
+      "ALCANTARILLADO": 15,
+      "CANALIZACIÓN": 31,
+      "OBRA MUNICIPAL": 4,
+      "AVERIA URGENTE": 48
+    },
+    "tasa_recurrencia": 4.7
+  },
+  {
+    "distrito": "BARAJAS",
+    "total_licencias": 321,
+    "direcciones_recurrentes": 13,
+    "tipos": {
+      "CALA PROGRAMADA": 188,
+      "AVERÍA URGENTE": 70,
+      "CANALIZACIÓN": 18,
+      "ALCANTARILLADO": 9,
+      "OBRA MUNICIPAL": 3,
+      "AVERIA URGENTE": 33
+    },
+    "tasa_recurrencia": 5.1
+  },
+  {
+    "distrito": "CARABANCHEL",
+    "total_licencias": 954,
+    "direcciones_recurrentes": 24,
+    "tipos": {
+      "CANALIZACIÓN": 80,
+      "CALA PROGRAMADA": 273,
+      "ALCANTARILLADO": 68,
+      "OBRA MUNICIPAL": 16,
+      "AVERÍA URGENTE": 389,
+      "AVERIA URGENTE": 128
+    },
+    "tasa_recurrencia": 3.1
+  },
+  {
+    "distrito": "CENTRO",
+    "total_licencias": 865,
+    "direcciones_recurrentes": 35,
+    "tipos": {
+      "ALCANTARILLADO": 18,
+      "CALA PROGRAMADA": 326,
+      "AVERÍA URGENTE": 383,
+      "CANALIZACIÓN": 49,
+      "OBRA MUNICIPAL": 5,
+      "AVERIA URGENTE": 84
+    },
+    "tasa_recurrencia": 5.1
+  },
+  {
+    "distrito": "CHAMARTIN",
+    "total_licencias": 563,
+    "direcciones_recurrentes": 21,
+    "tipos": {
+      "CALA PROGRAMADA": 217,
+      "CANALIZACIÓN": 57,
+      "ALCANTARILLADO": 10,
+      "AVERÍA URGENTE": 155,
+      "OBRA MUNICIPAL": 7,
+      "AVERIA URGENTE": 117
+    },
+    "tasa_recurrencia": 4.5
+  },
+  {
+    "distrito": "CHAMARTÍN",
+    "total_licencias": 189,
+    "direcciones_recurrentes": 3,
+    "tipos": {
+      "AVERÍA URGENTE": 79,
+      "CALA PROGRAMADA": 94,
+      "CANALIZACIÓN": 11,
+      "OBRA MUNICIPAL": 2,
+      "ALCANTARILLADO": 3
+    },
+    "tasa_recurrencia": 2.3
+  },
+  {
+    "distrito": "CHAMBERI",
+    "total_licencias": 195,
+    "direcciones_recurrentes": 7,
+    "tipos": {
+      "AVERIA URGENTE": 113,
+      "CALA PROGRAMADA": 57,
+      "OBRA MUNICIPAL": 1,
+      "CANALIZACIÓN": 21,
+      "ALCANTARILLADO": 3
+    },
+    "tasa_recurrencia": 4.6
+  },
+  {
+    "distrito": "CHAMBERÍ",
+    "total_licencias": 388,
+    "direcciones_recurrentes": 18,
+    "tipos": {
+      "AVERÍA URGENTE": 200,
+      "CANALIZACIÓN": 25,
+      "CALA PROGRAMADA": 153,
+      "OBRA MUNICIPAL": 6,
+      "ALCANTARILLADO": 4
+    },
+    "tasa_recurrencia": 6.1
+  },
+  {
+    "distrito": "CIUDAD LINEAL",
+    "total_licencias": 929,
+    "direcciones_recurrentes": 26,
+    "tipos": {
+      "CALA PROGRAMADA": 319,
+      "CANALIZACIÓN": 70,
+      "AVERÍA URGENTE": 345,
+      "OBRA MUNICIPAL": 21,
+      "ALCANTARILLADO": 28,
+      "AVERIA URGENTE": 146
+    },
+    "tasa_recurrencia": 3.4
+  },
+  {
+    "distrito": "FUENCARRAL - EL PARDO",
+    "total_licencias": 206,
+    "direcciones_recurrentes": 2,
+    "tipos": {
+      "OBRA MUNICIPAL": 2,
+      "AVERÍA URGENTE": 112,
+      "CALA PROGRAMADA": 68,
+      "CANALIZACIÓN": 16,
+      "ALCANTARILLADO": 8
+    },
+    "tasa_recurrencia": 1.5
+  },
+  {
+    "distrito": "FUENCARRAL-EL PARDO",
+    "total_licencias": 632,
+    "direcciones_recurrentes": 32,
+    "tipos": {
+      "CALA PROGRAMADA": 175,
+      "CANALIZACIÓN": 48,
+      "ALCANTARILLADO": 22,
+      "AVERÍA URGENTE": 201,
+      "OBRA MUNICIPAL": 23,
+      "AVERIA URGENTE": 163
+    },
+    "tasa_recurrencia": 6.1
+  },
+  {
+    "distrito": "HORTALEZA",
+    "total_licencias": 850,
+    "direcciones_recurrentes": 33,
+    "tipos": {
+      "CANALIZACIÓN": 69,
+      "AVERÍA URGENTE": 233,
+      "CALA PROGRAMADA": 370,
+      "ALCANTARILLADO": 60,
+      "OBRA MUNICIPAL": 8,
+      "AVERIA URGENTE": 110
+    },
+    "tasa_recurrencia": 4.8
+  },
+  {
+    "distrito": "LATINA",
+    "total_licencias": 817,
+    "direcciones_recurrentes": 19,
+    "tipos": {
+      "ALCANTARILLADO": 48,
+      "CANALIZACIÓN": 42,
+      "CALA PROGRAMADA": 204,
+      "AVERÍA URGENTE": 388,
+      "OBRA MUNICIPAL": 27,
+      "AVERIA URGENTE": 108
+    },
+    "tasa_recurrencia": 2.7
+  },
+  {
+    "distrito": "MONCLOA - ARAVACA",
+    "total_licencias": 222,
+    "direcciones_recurrentes": 3,
+    "tipos": {
+      "CANALIZACIÓN": 16,
+      "AVERÍA URGENTE": 105,
+      "CALA PROGRAMADA": 81,
+      "ALCANTARILLADO": 16,
+      "OBRA MUNICIPAL": 4
+    },
+    "tasa_recurrencia": 2.0
+  },
+  {
+    "distrito": "MONCLOA-ARAVACA",
+    "total_licencias": 670,
+    "direcciones_recurrentes": 37,
+    "tipos": {
+      "AVERÍA URGENTE": 211,
+      "CALA PROGRAMADA": 242,
+      "ALCANTARILLADO": 29,
+      "CANALIZACIÓN": 79,
+      "OBRA MUNICIPAL": 4,
+      "AVERIA URGENTE": 105
+    },
+    "tasa_recurrencia": 7.1
+  },
+  {
+    "distrito": "MORATALAZ",
+    "total_licencias": 328,
+    "direcciones_recurrentes": 16,
+    "tipos": {
+      "AVERÍA URGENTE": 120,
+      "CANALIZACIÓN": 17,
+      "CALA PROGRAMADA": 112,
+      "ALCANTARILLADO": 10,
+      "OBRA MUNICIPAL": 25,
+      "AVERIA URGENTE": 44
+    },
+    "tasa_recurrencia": 6.2
+  },
+  {
+    "distrito": "PUENTE DE VALLECAS",
+    "total_licencias": 933,
+    "direcciones_recurrentes": 43,
+    "tipos": {
+      "CANALIZACIÓN": 51,
+      "CALA PROGRAMADA": 384,
+      "OBRA MUNICIPAL": 8,
+      "ALCANTARILLADO": 49,
+      "AVERÍA URGENTE": 348,
+      "AVERIA URGENTE": 93
+    },
+    "tasa_recurrencia": 5.9
+  },
+  {
+    "distrito": "RETIRO",
+    "total_licencias": 293,
+    "direcciones_recurrentes": 13,
+    "tipos": {
+      "CANALIZACIÓN": 23,
+      "CALA PROGRAMADA": 104,
+      "AVERÍA URGENTE": 108,
+      "OBRA MUNICIPAL": 6,
+      "ALCANTARILLADO": 5,
+      "AVERIA URGENTE": 47
+    },
+    "tasa_recurrencia": 5.7
+  },
+  {
+    "distrito": "SALAMANCA",
+    "total_licencias": 715,
+    "direcciones_recurrentes": 30,
+    "tipos": {
+      "CANALIZACIÓN": 68,
+      "CALA PROGRAMADA": 278,
+      "AVERÍA URGENTE": 238,
+      "OBRA MUNICIPAL": 22,
+      "ALCANTARILLADO": 11,
+      "AVERIA URGENTE": 98
+    },
+    "tasa_recurrencia": 5.5
+  },
+  {
+    "distrito": "SAN BLAS",
+    "total_licencias": 564,
+    "direcciones_recurrentes": 28,
+    "tipos": {
+      "CALA PROGRAMADA": 217,
+      "CANALIZACIÓN": 51,
+      "AVERÍA URGENTE": 173,
+      "OBRA MUNICIPAL": 9,
+      "ALCANTARILLADO": 17,
+      "AVERIA URGENTE": 97
+    },
+    "tasa_recurrencia": 6.2
+  },
+  {
+    "distrito": "SAN BLAS - CANILLEJAS",
+    "total_licencias": 169,
+    "direcciones_recurrentes": 2,
+    "tipos": {
+      "AVERÍA URGENTE": 93,
+      "OBRA MUNICIPAL": 2,
+      "ALCANTARILLADO": 5,
+      "CANALIZACIÓN": 9,
+      "CALA PROGRAMADA": 60
+    },
+    "tasa_recurrencia": 1.6
+  },
+  {
+    "distrito": "TETUAN",
+    "total_licencias": 455,
+    "direcciones_recurrentes": 19,
+    "tipos": {
+      "CALA PROGRAMADA": 185,
+      "ALCANTARILLADO": 16,
+      "AVERÍA URGENTE": 110,
+      "CANALIZACIÓN": 18,
+      "OBRA MUNICIPAL": 1,
+      "AVERIA URGENTE": 125
+    },
+    "tasa_recurrencia": 5.2
+  },
+  {
+    "distrito": "TETUÁN",
+    "total_licencias": 446,
+    "direcciones_recurrentes": 12,
+    "tipos": {
+      "CALA PROGRAMADA": 189,
+      "CANALIZACIÓN": 23,
+      "ALCANTARILLADO": 16,
+      "AVERÍA URGENTE": 212,
+      "OBRA MUNICIPAL": 6
+    },
+    "tasa_recurrencia": 3.6
+  },
+  {
+    "distrito": "USERA",
+    "total_licencias": 484,
+    "direcciones_recurrentes": 16,
+    "tipos": {
+      "OBRA MUNICIPAL": 11,
+      "ALCANTARILLADO": 20,
+      "CALA PROGRAMADA": 129,
+      "AVERÍA URGENTE": 234,
+      "CANALIZACIÓN": 32,
+      "AVERIA URGENTE": 58
+    },
+    "tasa_recurrencia": 4.0
+  },
+  {
+    "distrito": "VICALVARO",
+    "total_licencias": 115,
+    "direcciones_recurrentes": 16,
+    "tipos": {
+      "CANALIZACIÓN": 8,
+      "ALCANTARILLADO": 11,
+      "AVERÍA URGENTE": 39,
+      "CALA PROGRAMADA": 57
+    },
+    "tasa_recurrencia": 17.6
+  },
+  {
+    "distrito": "VICÁLVARO",
+    "total_licencias": 265,
+    "direcciones_recurrentes": 6,
+    "tipos": {
+      "CALA PROGRAMADA": 126,
+      "ALCANTARILLADO": 25,
+      "CANALIZACIÓN": 23,
+      "AVERÍA URGENTE": 58,
+      "AVERIA URGENTE": 21,
+      "OBRA MUNICIPAL": 12
+    },
+    "tasa_recurrencia": 3.1
+  },
+  {
+    "distrito": "VILLA DE VALLECAS",
+    "total_licencias": 531,
+    "direcciones_recurrentes": 26,
+    "tipos": {
+      "CANALIZACIÓN": 46,
+      "CALA PROGRAMADA": 272,
+      "AVERÍA URGENTE": 136,
+      "ALCANTARILLADO": 29,
+      "OBRA MUNICIPAL": 16,
+      "AVERIA URGENTE": 32
+    },
+    "tasa_recurrencia": 6.6
+  },
+  {
+    "distrito": "VILLAVERDE",
+    "total_licencias": 585,
+    "direcciones_recurrentes": 17,
+    "tipos": {
+      "ALCANTARILLADO": 34,
+      "CALA PROGRAMADA": 175,
+      "CANALIZACIÓN": 33,
+      "AVERÍA URGENTE": 257,
+      "OBRA MUNICIPAL": 8,
+      "AVERIA URGENTE": 78
+    },
+    "tasa_recurrencia": 3.7
+  }
+]

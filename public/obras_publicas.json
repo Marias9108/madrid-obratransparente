@@ -1,0 +1,182 @@
+[
+  {
+    "nombre": "OBRAS DE ADECUACIÓN Y AJUSTE DE LAS ZONAS ADYACENTES DE LOS JARDINES DE SABATINI CON LAS OBRAS DE PLAZA DE ESPAÑA",
+    "empresa": "UTE AZVI, S.A.U. - LICUAS S.A.",
+    "distrito": "CENTRO",
+    "viario": "\"Jardines de Sabatini Plaza de España Plaza de Oriente Plaza de la Marina Española Calle de San Quintín Calle de Bailén\"",
+    "presupuesto": 5793692.14,
+    "estado": "EN EJECUCIÓN",
+    "fecha_inicio": "2024-03-01",
+    "fecha_fin": "2025-05-31"
+  },
+  {
+    "nombre": "CARRETERA DE VALDECARROS. ADECUACIÓN DE VIALES. ETAPA 1",
+    "empresa": "U.T.E. ORTIZ CONSTRUCCIONES Y PROYECTOS SA - GESTI",
+    "distrito": "VILLA DE VALLECAS",
+    "viario": "Carretera de Villaverde a Vallecas",
+    "presupuesto": 5444730.68,
+    "estado": "EN EJECUCIÓN",
+    "fecha_inicio": "2024-05-10",
+    "fecha_fin": "2025-07-09"
+  },
+  {
+    "nombre": "ITINERARIO HABITABLE ENTRE MERCADO DE USERA Y PZA. HIDRÓGENO",
+    "empresa": "U.T.E. ORTIZ CONSTRUCCIONES Y PROYECTOS SA - GESTI",
+    "distrito": "USERA",
+    "viario": "\"C/ Nicolás Usera  C/ Andrés Arteaga  C/ Amparo Usera  Plaza de José Luis Hoys  C/ Mercedes Manjón  Plaza de Julián Marías  C/ Pablo Ortiz Plaza de las Tizas  C/ José Bielsa  C/ Isidra Jiménez  C/ Jas",
+    "presupuesto": 6185386.16,
+    "estado": "EN EJECUCIÓN",
+    "fecha_inicio": "2024-05-26",
+    "fecha_fin": "2025-11-25"
+  },
+  {
+    "nombre": "REMODELACIÓN DE LA PLAZA TIRSO DE MOLINA Y SU ENTORNO",
+    "empresa": "",
+    "distrito": "CENTRO",
+    "viario": "Plaza de Tirso de Molina •\tC/ de la Concepción Jerónima •\tC/ del Conde de Romanones •\tC/ de la Colegiata •\tC/ del Doctor Cortezo",
+    "presupuesto": 0.0,
+    "estado": "EN EJECUCIÓN",
+    "fecha_inicio": "2025-02-03",
+    "fecha_fin": "2026-06-02"
+  },
+  {
+    "nombre": "REURBANIZACIÓN PARQUE MANOLITO GAFOTAS",
+    "empresa": "UTE Ortiz- Gyocivil",
+    "distrito": "CARABANCHEL - LATINA",
+    "viario": "",
+    "presupuesto": 3782749.89,
+    "estado": "EN EJECUCIÓN",
+    "fecha_inicio": "2024-06-05",
+    "fecha_fin": "2025-12-05"
+  },
+  {
+    "nombre": "REMODELACIÓN DE LA PLAZA DE MATUTE Y CALLES ALEDAÑAS. DISTRITO CENTRO",
+    "empresa": "UTE AZVI-Licuas",
+    "distrito": "CENTRO",
+    "viario": "Calle de la Cruz, calle Espoz y Mina, Calle de las Huertas, Plaza del Ángel, Plaza de Matute",
+    "presupuesto": 1010265.75,
+    "estado": "EN EJECUCIÓN",
+    "fecha_inicio": "",
+    "fecha_fin": ""
+  },
+  {
+    "nombre": "PROYECTO DE ADECUACIÓN DEL ARROYO DE VALDEBEBAS EN EL TRAMO COMPRENDIDO ENTRE LA M-40 Y LA M-12. DISTRITO DE HORTALEZA",
+    "empresa": "UTE PACSA - TAGA",
+    "distrito": "HORTALEZA",
+    "viario": "",
+    "presupuesto": 1465619.18,
+    "estado": "EN EJECUCIÓN",
+    "fecha_inicio": "2024-09-01",
+    "fecha_fin": "2025-01-31"
+  },
+  {
+    "nombre": "REURBANIZACIÓN DE LAS CALLES LOMBÍA, FERNÁN GONZÁLEZ, AVDA. DE FELIPE II Y OTRAS",
+    "empresa": "UTE PACSA - TAGA",
+    "distrito": "SALAMANCA",
+    "viario": "Plaza de Salvador Dalí, Calle Lombía y calle Fernán González",
+    "presupuesto": 1459193.91,
+    "estado": "EN EJECUCIÓN",
+    "fecha_inicio": "2025-01-24",
+    "fecha_fin": "2026-04-23"
+  },
+  {
+    "nombre": "ACONDICIONAMIENTO DE ZONAS VERDES DEL ÁREA DE ORDENACIÓN ESPECIAL AOE.00.08 PARQUE DEPORTIVO DEL ESTE",
+    "empresa": "UTE PACSA - TAGA",
+    "distrito": "SAN BLAS - CANILLEJAS",
+    "viario": "",
+    "presupuesto": 7377848.72,
+    "estado": "EN EJECUCIÓN",
+    "fecha_inicio": "2024-12-19",
+    "fecha_fin": "2027-02-18"
+  },
+  {
+    "nombre": "REHABILITACION DE LA PLAZA DEL RASTRILLO Y DE JUAN PUJOL",
+    "empresa": "UTE AZVI, S.A.U. - LICUAS S.A.",
+    "distrito": "CENTRO",
+    "viario": "Plaza del Rastrillo Calle del Espíritu Santo Calle de San Andrés Cale del Tesoro Calle del Marqués de Santa Ana",
+    "presupuesto": 1985550.52,
+    "estado": "EN EJECUCIÓN",
+    "fecha_inicio": "2025-06-22",
+    "fecha_fin": "2026-04-21"
+  },
+  {
+    "nombre": "CONSTRUCCIÓN DE LAS RAMPAS DE ACCESO AL ANTIGUO MERCADO CENTRAL DE FRUTAS Y VERDURAS DE LEGAZPI",
+    "empresa": "U.T.E. ROVER-COTODISA",
+    "distrito": "ARGANZUELA",
+    "viario": "Calle Maestro Arbós",
+    "presupuesto": 5205131.03,
+    "estado": "EN EJECUCIÓN",
+    "fecha_inicio": "2025-06-22",
+    "fecha_fin": "2026-06-21"
+  },
+  {
+    "nombre": "CUBRICIÓN DEL VIARIO M-30 EN EL PUENTE DE VENTAS",
+    "empresa": "UTE FCC , PACSA, TAGA",
+    "distrito": "SALAMANCA . CIUDAD LINEAL",
+    "viario": "Calle Antonio Pirala, Calle Alejandro González, Plaza de América Española, Calle Ramón de Aguinaga, Calle Cyesa, Calle San Emilio,",
+    "presupuesto": 78916236.99,
+    "estado": "EN EJECUCIÓN",
+    "fecha_inicio": "2025-06-22",
+    "fecha_fin": "2027-04-21"
+  },
+  {
+    "nombre": "SOTERRAMIENTO  DEL  PASEO  DE  LA CASTELLANA  EN  EL  TRAMO  C/SINESIO  DELGADO- NUDO NORTE DE CALLE 30",
+    "empresa": "UTE FERROVIAL - GYOCIVIL - LICUAS",
+    "distrito": "CHAMARTÍN - FUENCARRAL - EL PARDO",
+    "viario": "Paseo de la Castellana  Calle Sinesio Delgado Calle Padre Francisco Palau y Quer Acvda. Monforte de Lemos Calle Daniel Vázquez Díaz Calle Manuel Caldeiro Calle Arzobispo Morcillo",
+    "presupuesto": 112260057.58,
+    "estado": "EN EJECUCIÓN",
+    "fecha_inicio": "2025-06-29",
+    "fecha_fin": "2026-04-28"
+  },
+  {
+    "nombre": "ASCENSOR URBANO PZA. DR.BARRAQUER-AV.CARDENAL HERRERA ORIA. MEJORA DE ACCESIBILIDAD",
+    "empresa": "UTE PACSA - TAGA",
+    "distrito": "FUENCARRAL-EL PARDO",
+    "viario": "Calle Isla de Tavira",
+    "presupuesto": 604017.55,
+    "estado": "EN EJECUCIÓN",
+    "fecha_inicio": "2025-07-03",
+    "fecha_fin": "2026-05-02"
+  },
+  {
+    "nombre": "PLAZA DE CHAMBERÍ. OBRAS DE REMODELACIÓN",
+    "empresa": "UTE PACSA-TAGA",
+    "distrito": "CHAMBERÍ",
+    "viario": "",
+    "presupuesto": 2272129.76,
+    "estado": "EN EJECUCIÓN",
+    "fecha_inicio": "2025-11-17",
+    "fecha_fin": "2026-07-16"
+  },
+  {
+    "nombre": "VIARIO DE CONEXIÓN VÍA BORDE- VÍA MERIDIONAL ETAPA-2. CTRA. VALDECARROS 2º ETAPA",
+    "empresa": "UTE ORTIZ-GYOCIVIL",
+    "distrito": "VILLA DE VALLECAS",
+    "viario": "",
+    "presupuesto": 16198974.87,
+    "estado": "EN EJECUCIÓN",
+    "fecha_inicio": "2025-11-18",
+    "fecha_fin": "2027-10-17"
+  },
+  {
+    "nombre": "PAISAJE DE LA LUZ. CALLE ALCALÁ (PLAZA DE CIBELES – PLAZA DE LA INDEPENDENCIA).",
+    "empresa": "U.T.E. LICUAS - AZVI",
+    "distrito": "RETIRO - SALAMANCA",
+    "viario": "Calle de Alcalá, Plaza de la Independencia, Calle de Alfonso XI, Calle de Pedro Muñoz Seca, Calle de Alfonso XII",
+    "presupuesto": 6120436.35,
+    "estado": "EN EJECUCIÓN",
+    "fecha_inicio": "2026-01-25",
+    "fecha_fin": "2027-05-24"
+  },
+  {
+    "nombre": "REMODELACIÓN DE LA PLAZA DE JACINTO BENAVENTE",
+    "empresa": "UTE AZVI, S.A.U. - LICUAS S.A.",
+    "distrito": "CENTRO",
+    "viario": "Plaza de Jacinto Benavente Calle de Carretas Calle de la Bolsa Calle de Atocha Calle Doctor Cortezo Calle Concepción Jerónima",
+    "presupuesto": 9461988.93,
+    "estado": "EN EJECUCIÓN",
+    "fecha_inicio": "2026-01-11",
+    "fecha_fin": "2027-04-10"
+  }
+]

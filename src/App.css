@@ -1,0 +1,14 @@
+#root {
+  max-width: none;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  text-align: left;
+}
+
+.leaflet-container {
+  width: 100%;
+  height: 500px;
+  border-radius: 0.5rem;
+  z-index: 1;
+}

@@ -1,0 +1,402 @@
+[
+  {
+    "nombre": "CLECE, S.A.",
+    "contratos": 7,
+    "obras": 0,
+    "servicios": 7,
+    "suministros": 0,
+    "importe_total": 130651306.06
+  },
+  {
+    "nombre": "ILUNION SOCIOSANITARIO S.A.",
+    "contratos": 8,
+    "obras": 0,
+    "servicios": 8,
+    "suministros": 0,
+    "importe_total": 109557967.91
+  },
+  {
+    "nombre": "IBERDROLA CLIENTES, S.A.U.",
+    "contratos": 3,
+    "obras": 0,
+    "servicios": 0,
+    "suministros": 3,
+    "importe_total": 98960899.95
+  },
+  {
+    "nombre": "IMESAPI, S.A.",
+    "contratos": 6,
+    "obras": 3,
+    "servicios": 2,
+    "suministros": 1,
+    "importe_total": 60440620.99
+  },
+  {
+    "nombre": "ORTIZ CONSTRUCCIONES Y PROYECTOS, S.A.",
+    "contratos": 9,
+    "obras": 6,
+    "servicios": 1,
+    "suministros": 0,
+    "importe_total": 48776803.02
+  },
+  {
+    "nombre": "ALPHABET ESPAÑA FLEET MANAGEMENT, S.A.",
+    "contratos": 10,
+    "obras": 0,
+    "servicios": 0,
+    "suministros": 10,
+    "importe_total": 24192984.36
+  },
+  {
+    "nombre": "CEJAL LIMPIEZAS, S.L.",
+    "contratos": 4,
+    "obras": 0,
+    "servicios": 4,
+    "suministros": 0,
+    "importe_total": 12395444.14
+  },
+  {
+    "nombre": "SASEGUR, S.L.",
+    "contratos": 8,
+    "obras": 0,
+    "servicios": 8,
+    "suministros": 0,
+    "importe_total": 10691727.71
+  },
+  {
+    "nombre": "SERVISE, S.A.",
+    "contratos": 8,
+    "obras": 0,
+    "servicios": 8,
+    "suministros": 0,
+    "importe_total": 10298894.48
+  },
+  {
+    "nombre": "FULTON SERVICIOS INTEGRALES, S. A.",
+    "contratos": 3,
+    "obras": 1,
+    "servicios": 2,
+    "suministros": 0,
+    "importe_total": 8791644.86
+  },
+  {
+    "nombre": "EVOLUTIO CLOUD ENABLER, S.A.",
+    "contratos": 3,
+    "obras": 0,
+    "servicios": 2,
+    "suministros": 1,
+    "importe_total": 8337884.4
+  },
+  {
+    "nombre": "ACCIONA FACILITY SERVICES SA",
+    "contratos": 4,
+    "obras": 0,
+    "servicios": 4,
+    "suministros": 0,
+    "importe_total": 6928763.72
+  },
+  {
+    "nombre": "ASOCIACIÓN PARA LA PROTECCIÓN DEL MENOR EN LOS PROCESOS DE SEPARACIÓN DE SUS PROGENITORES (APROME)",
+    "contratos": 3,
+    "obras": 0,
+    "servicios": 3,
+    "suministros": 0,
+    "importe_total": 6797591.44
+  },
+  {
+    "nombre": "LIMPIEZAS CRESPO, S.A.",
+    "contratos": 3,
+    "obras": 0,
+    "servicios": 3,
+    "suministros": 0,
+    "importe_total": 5438807.49
+  },
+  {
+    "nombre": "SERVEO SERVICIOS, S.A.U.",
+    "contratos": 4,
+    "obras": 1,
+    "servicios": 3,
+    "suministros": 0,
+    "importe_total": 5260451.11
+  },
+  {
+    "nombre": "AEBIA TECNOLOGÍA Y SERVICIOS, S.L.",
+    "contratos": 5,
+    "obras": 0,
+    "servicios": 5,
+    "suministros": 0,
+    "importe_total": 4758542.35
+  },
+  {
+    "nombre": "TRITOMA GESTIÓN CULTURAL S.L.",
+    "contratos": 7,
+    "obras": 0,
+    "servicios": 7,
+    "suministros": 0,
+    "importe_total": 3939514.95
+  },
+  {
+    "nombre": "J C MADRID DEPORTE Y CULTURA S.L.",
+    "contratos": 22,
+    "obras": 0,
+    "servicios": 22,
+    "suministros": 0,
+    "importe_total": 3857579.99
+  },
+  {
+    "nombre": "ACAYA NATURALEZA Y VIDA  S.L.",
+    "contratos": 9,
+    "obras": 0,
+    "servicios": 9,
+    "suministros": 0,
+    "importe_total": 3843203.69
+  },
+  {
+    "nombre": "PROVIVIENDA",
+    "contratos": 4,
+    "obras": 0,
+    "servicios": 4,
+    "suministros": 0,
+    "importe_total": 3798108.02
+  },
+  {
+    "nombre": "ASOCIACIÓN TRABE",
+    "contratos": 4,
+    "obras": 0,
+    "servicios": 4,
+    "suministros": 0,
+    "importe_total": 3784000.0
+  },
+  {
+    "nombre": "SPEZIAL OUTSOURCING, S.L",
+    "contratos": 4,
+    "obras": 0,
+    "servicios": 4,
+    "suministros": 0,
+    "importe_total": 3192419.02
+  },
+  {
+    "nombre": "JOTRINSA,  S.L.",
+    "contratos": 3,
+    "obras": 0,
+    "servicios": 1,
+    "suministros": 2,
+    "importe_total": 3130329.19
+  },
+  {
+    "nombre": "RSA LUXEMBURGO SA SUCURSAL EN ESPAÑA",
+    "contratos": 3,
+    "obras": 0,
+    "servicios": 3,
+    "suministros": 0,
+    "importe_total": 3012098.04
+  },
+  {
+    "nombre": "7 ESTRELLAS EDUCACION Y OCIO SL",
+    "contratos": 4,
+    "obras": 0,
+    "servicios": 4,
+    "suministros": 0,
+    "importe_total": 2822714.4
+  },
+  {
+    "nombre": "ASOCIACION LAKOMA MADRID",
+    "contratos": 3,
+    "obras": 0,
+    "servicios": 3,
+    "suministros": 0,
+    "importe_total": 2797166.42
+  },
+  {
+    "nombre": "OCCIDENT GCO, SOCIEDAD ANÓNIMA DE SEGUROS Y REASEGUROS",
+    "contratos": 4,
+    "obras": 0,
+    "servicios": 4,
+    "suministros": 0,
+    "importe_total": 2593167.99
+  },
+  {
+    "nombre": "HARTFORD, S.L.",
+    "contratos": 9,
+    "obras": 0,
+    "servicios": 9,
+    "suministros": 0,
+    "importe_total": 2584385.1
+  },
+  {
+    "nombre": "EULEN, S.A.",
+    "contratos": 4,
+    "obras": 1,
+    "servicios": 2,
+    "suministros": 1,
+    "importe_total": 2582678.16
+  },
+  {
+    "nombre": "ARCI NATURE INTERVENCIÓN SOCIAL, S.L.U.",
+    "contratos": 6,
+    "obras": 0,
+    "servicios": 6,
+    "suministros": 0,
+    "importe_total": 2571188.69
+  },
+  {
+    "nombre": "CASVA SEGURIDAD, S.L.",
+    "contratos": 3,
+    "obras": 0,
+    "servicios": 3,
+    "suministros": 0,
+    "importe_total": 2488826.78
+  },
+  {
+    "nombre": "EXERCYCLE, S.L",
+    "contratos": 8,
+    "obras": 0,
+    "servicios": 0,
+    "suministros": 8,
+    "importe_total": 2389811.25
+  },
+  {
+    "nombre": "CULTURAL  ACTEX  SL",
+    "contratos": 10,
+    "obras": 0,
+    "servicios": 10,
+    "suministros": 0,
+    "importe_total": 2199133.11
+  },
+  {
+    "nombre": "MERINO Y MERINO PRODUCCIONES, S.L.",
+    "contratos": 14,
+    "obras": 0,
+    "servicios": 13,
+    "suministros": 1,
+    "importe_total": 2196207.55
+  },
+  {
+    "nombre": "DELFO, DESARROLLO LABORAL Y FORMACION, S.L.",
+    "contratos": 3,
+    "obras": 0,
+    "servicios": 3,
+    "suministros": 0,
+    "importe_total": 2062555.0
+  },
+  {
+    "nombre": "TECNOVE, S.L.",
+    "contratos": 6,
+    "obras": 0,
+    "servicios": 0,
+    "suministros": 6,
+    "importe_total": 2000066.43
+  },
+  {
+    "nombre": "VT PROYECTOS, S.L.",
+    "contratos": 4,
+    "obras": 0,
+    "servicios": 4,
+    "suministros": 0,
+    "importe_total": 1877768.77
+  },
+  {
+    "nombre": "INGENIERÍA DE LOS RECURSOS NATURALES, S.A.",
+    "contratos": 3,
+    "obras": 3,
+    "servicios": 0,
+    "suministros": 0,
+    "importe_total": 1809059.14
+  },
+  {
+    "nombre": "ARQUISOCIAL, S.L.",
+    "contratos": 3,
+    "obras": 0,
+    "servicios": 3,
+    "suministros": 0,
+    "importe_total": 1698676.05
+  },
+  {
+    "nombre": "TECNICOS ASOCIADOS INFORMATICA, S.A.U.",
+    "contratos": 4,
+    "obras": 0,
+    "servicios": 3,
+    "suministros": 1,
+    "importe_total": 1570698.69
+  },
+  {
+    "nombre": "ACTIVIDADES DE EDUCACION, CULTURA Y OCIO S.L.L.",
+    "contratos": 5,
+    "obras": 0,
+    "servicios": 5,
+    "suministros": 0,
+    "importe_total": 1568655.29
+  },
+  {
+    "nombre": "IKEBANA ANIMACIÓN Y OCIO, S.L.",
+    "contratos": 13,
+    "obras": 0,
+    "servicios": 13,
+    "suministros": 0,
+    "importe_total": 1494625.51
+  },
+  {
+    "nombre": "GLOBAL PROJECTS AND SUPPLIES, S.L.",
+    "contratos": 4,
+    "obras": 0,
+    "servicios": 0,
+    "suministros": 4,
+    "importe_total": 1454158.88
+  },
+  {
+    "nombre": "ASOCIACIÓN CENTRO TRAMA",
+    "contratos": 4,
+    "obras": 0,
+    "servicios": 4,
+    "suministros": 0,
+    "importe_total": 1407212.21
+  },
+  {
+    "nombre": "G.E. ESCUELAS URBANAS, S.L.",
+    "contratos": 3,
+    "obras": 0,
+    "servicios": 3,
+    "suministros": 0,
+    "importe_total": 1285938.55
+  },
+  {
+    "nombre": "CLECE FS, S.A.U.",
+    "contratos": 3,
+    "obras": 0,
+    "servicios": 3,
+    "suministros": 0,
+    "importe_total": 1278165.64
+  },
+  {
+    "nombre": "ACSA OBRAS E INFRAESTRUCTURAS, S.A.U.",
+    "contratos": 10,
+    "obras": 9,
+    "servicios": 1,
+    "suministros": 0,
+    "importe_total": 1193955.63
+  },
+  {
+    "nombre": "ROCHE DIAGNOSTICS; S.L.",
+    "contratos": 3,
+    "obras": 0,
+    "servicios": 0,
+    "suministros": 3,
+    "importe_total": 1139521.66
+  },
+  {
+    "nombre": "LAPPSET ESPAÑA VR SL",
+    "contratos": 3,
+    "obras": 0,
+    "servicios": 0,
+    "suministros": 3,
+    "importe_total": 1121721.41
+  },
+  {
+    "nombre": "ASCENDER, S.L.",
+    "contratos": 4,
+    "obras": 0,
+    "servicios": 0,
+    "suministros": 4,
+    "importe_total": 1119826.13
+  }
+]

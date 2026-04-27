@@ -1,0 +1,2032 @@
+[
+  {
+    "nombre": "PARQUE DE BOMBEROS Nº 9. OBRAS REFORMA Y AMPLIACIÓN EN SÓTANO, EDIFICIO GIMNASIO Y COCHERAS TRASERAS",
+    "distrito": "FUENCARRAL-EL PARDO",
+    "direccion": "AVENIDA DE MONFORTE DE LEMOS 20",
+    "lat": 40.480208828940015,
+    "lon": -3.6996125875510923,
+    "linea_inversion": "PROTECCIÓN CIVIL Y SEGURIDAD CIUDADANA",
+    "presupuesto_total": "3705421,41",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "PARQUE DE BOMBEROS NÚMERO 9, EDIFICIO OESTE. OBRAS DE REFORMA Y AMPLIACIÓN",
+    "distrito": "FUENCARRAL-EL PARDO",
+    "direccion": "AVENIDA DE MONFORTE DE LEMOS 20",
+    "lat": 40.4816211870686,
+    "lon": -3.69980077106436,
+    "linea_inversion": "PROTECCIÓN CIVIL Y SEGURIDAD CIUDADANA",
+    "presupuesto_total": "1689171,90",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "EDIFICIO AVENIDA ORCASUR, 51. OBRAS REHABILITACIÓN PARA CENTRO LOGÍSTICO POLICÍA MUNICIPAL ORCASUR",
+    "distrito": "USERA",
+    "direccion": "AVENIDA DE ORCASUR 51",
+    "lat": 40.3672789454633,
+    "lon": -3.70139471265985,
+    "linea_inversion": "PROTECCIÓN CIVIL Y SEGURIDAD CIUDADANA",
+    "presupuesto_total": "8162209,49",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "BASE 0 SAMUR-PROTECCIÓN CIVIL. OBRAS DE REFORMA EDIFICIO 2",
+    "distrito": "MONCLOA-ARAVACA",
+    "direccion": "RONDA DE LAS PROVINCIAS 7",
+    "lat": 40.4145881865344,
+    "lon": -3.7439416450906395,
+    "linea_inversion": "PROTECCIÓN CIVIL Y SEGURIDAD CIUDADANA",
+    "presupuesto_total": "1241653,00",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "PALACIO \"EL CAPRICHO\". REHABILITACIÓN PARA DESARROLLO MUSEOGRÁFICO",
+    "distrito": "BARAJAS",
+    "direccion": "PASEO DE LA ALAMEDA DE OSUNA 25",
+    "lat": 40.4547855,
+    "lon": -3.6019412,
+    "linea_inversion": "CULTURA",
+    "presupuesto_total": "8884452,10",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "CASA DE VARGAS. REHABILITACIÓN CASA-PALACIO Y JARDÍN DE FELIPE II",
+    "distrito": "MONCLOA-ARAVACA",
+    "direccion": "PASEO DEL DEL EMBARCADERO 2",
+    "lat": 40.4191125,
+    "lon": -3.7256439,
+    "linea_inversion": "CULTURA",
+    "presupuesto_total": "13149151,84",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "PABELLÓN DE HEXÁGONOS CASA DE CAMPO. REHABILITACIÓN",
+    "distrito": "MONCLOA-ARAVACA",
+    "direccion": "CALLE DE LOS HEXÁGONOS 4",
+    "lat": 40.4126577,
+    "lon": -3.7442902,
+    "linea_inversion": "CULTURA",
+    "presupuesto_total": "3099443,81",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "NAVE 15 MATADERO. OBRAS DE ACONDICIONAMIENTO",
+    "distrito": "ARGANZUELA",
+    "direccion": "PLAZA DE LEGAZPI 8",
+    "lat": 40.3917614508368,
+    "lon": -3.6963276163896612,
+    "linea_inversion": "CULTURA",
+    "presupuesto_total": "1938478,00",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "ARCO DE LA VICTORIA. OBRAS DE REPARACIÓN Y MEJORA",
+    "distrito": "MONCLOA-ARAVACA",
+    "direccion": "AVENIDA DE LA MEMORIA 32",
+    "lat": 40.435908,
+    "lon": -3.720198,
+    "linea_inversion": "CULTURA",
+    "presupuesto_total": "1218016,71",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "PALACIO CIBELES. SUBSANACIÓN DEFICIENCIA INSTALACIÓN ELÉCTRICA, PROTECCIÓN INCENDIOS Y CLIMATIZACIÓN",
+    "distrito": "RETIRO",
+    "direccion": "PLAZA DE CIBELES 1",
+    "lat": 40.418803,
+    "lon": -3.69182,
+    "linea_inversion": "INVERSIONES DE CARÁCTER GENERAL",
+    "presupuesto_total": "2827015,86",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "MUSEOGRAFIA PARA EL MUSEO EL CAPRICHO",
+    "distrito": "BARAJAS",
+    "direccion": "CALLE DE LA RAMBLA 2",
+    "lat": 40.4568494887367,
+    "lon": -3.59511703841939,
+    "linea_inversion": "CULTURA",
+    "presupuesto_total": "1600000,00",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "MUSEO DE ARTE CONTEMPORANEO. OBRAS DE ACONDICIONAMIENTO",
+    "distrito": "CENTRO",
+    "direccion": "CALLE DEL CONDE DUQUE 9",
+    "lat": 40.4273057922789,
+    "lon": -3.71073014033134,
+    "linea_inversion": "CULTURA",
+    "presupuesto_total": "5080717,00",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "DEPORTIVO BÁSICO PIQUEÑAS. ADECUACIÓN CAMPO DE FÚTBOL CÉSPED ARTIFICIAL Y VESTUARIOS",
+    "distrito": "CARABANCHEL",
+    "direccion": "CALLE DEL PINAR DE SAN JOSÉ 64",
+    "lat": 40.360952,
+    "lon": -3.768519,
+    "linea_inversion": "DEPORTES, JUVENTUD  Y ESPARCIMIENTO",
+    "presupuesto_total": "1849918,00",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "DEPORTIVO BÁSICO PARQUE LINEAL DEL MANZANARES. SUSTITUCIÓN DE CÉSPED",
+    "distrito": "USERA",
+    "direccion": "CALLE EMBAJADORES S/N",
+    "lat": 40.374485,
+    "lon": -3.685494,
+    "linea_inversion": "DEPORTES, JUVENTUD  Y ESPARCIMIENTO",
+    "presupuesto_total": "1100000,00",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "SISTEMAS DE COMPENSACIÓN. UZP 2-04 LOS BERROCALES",
+    "distrito": "VICÁLVARO",
+    "direccion": "LOS BERROCALES",
+    "lat": 40.3772222,
+    "lon": -3.579722222222222,
+    "linea_inversion": "URBANISMO",
+    "presupuesto_total": "28702504,94",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "UZP 2.03 DESARROLLO DEL ESTE LOS AHIJONES. COMPENSACIÓN",
+    "distrito": "VICÁLVARO",
+    "direccion": "DESARROLLO DEL ESTE LOS AHIJONES",
+    "lat": 40.3879964,
+    "lon": -3.56225647,
+    "linea_inversion": "URBANISMO",
+    "presupuesto_total": "17496017,56",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "SUELO URBANIZABLE PROGRAMADO 3.01 DESARROLLO DEL ESTE VALDECARROS",
+    "distrito": "VILLA DE VALLECAS",
+    "direccion": "PAU Valdecarros",
+    "lat": 40.34915068793722,
+    "lon": -3.6292232757681036,
+    "linea_inversion": "URBANISMO",
+    "presupuesto_total": "25349323,72",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "SOTERRAMIENTO AUTOPISTA A5 Y PASEO VERDE DEL SUROESTE. CONSTRUCCIÓN",
+    "distrito": "LATINA",
+    "direccion": "PASEO DE EXTREMADURA 160-350",
+    "lat": 40.40591410670645,
+    "lon": -3.7504038495964656,
+    "linea_inversion": "INFRAESTRUCTURAS",
+    "presupuesto_total": "314645784,27",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "ANILLO VERDE DE VILLAVERDE. EJECUCIÓN BOSQUE METROPOLITANO",
+    "distrito": "VILLAVERDE",
+    "direccion": "ANILLO VERDE DE VILLAVERDE",
+    "lat": 40.36002547,
+    "lon": -3.71601781,
+    "linea_inversion": "URBANISMO",
+    "presupuesto_total": "9307688,48",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "ÁMBITO CERRO ALMODÓVAR II. EJECUCIÓN DEL BOSQUE METROPOLITANO",
+    "distrito": "VILLA DE VALLECAS - VICÁLVARO",
+    "direccion": "",
+    "lat": 40.384167,
+    "lon": -3.599444,
+    "linea_inversion": "URBANISMO",
+    "presupuesto_total": "1623123,83",
+    "estado": "FINALIZADO"
+  },
+  {
+    "nombre": "BORDE FORESTAL DE ORCASITAS. EJECUCIÓN DEL BOSQUE METROPOLITANO",
+    "distrito": "USERA",
+    "direccion": "BORDE FORESTAL DE ORCASITAS",
+    "lat": 40.36457818,
+    "lon": -3.71745381,
+    "linea_inversion": "URBANISMO",
+    "presupuesto_total": "4318585,77",
+    "estado": "FINALIZADO"
+  },
+  {
+    "nombre": "CUÑA NORTE DE O´DONNELL. EJECUCIÓN DEL BOSQUE METROPOLITANO",
+    "distrito": "CIUDAD LINEAL",
+    "direccion": "CUÑA NORTE DE O´DONELL",
+    "lat": 40.4156699,
+    "lon": -3.62947201,
+    "linea_inversion": "URBANISMO",
+    "presupuesto_total": "11059438,25",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "ÁMBITO CORREDOR NATURAL Y PARQUE FLUVIAL DEL ARROYO DE BUTARQUE. EJECUCIÓN DEL BOSQUE METROPOLITANO",
+    "distrito": "VILLAVERDE",
+    "direccion": "CALLE DE LA HULLA",
+    "lat": 40.341278,
+    "lon": -3.671583,
+    "linea_inversion": "URBANISMO",
+    "presupuesto_total": "4770376,84",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "PARCELAS ÁMBITO VALDEGRULLA Y PARAJE VALDESENDERÍN. DESESCOMBRO Y RENATURALIZACIÓN",
+    "distrito": "FUENCARRAL-EL PARDO",
+    "direccion": "M603 C/V AV. MONTE DE VALDELATAS",
+    "lat": 40.51908561970688,
+    "lon": -3.667892213325621,
+    "linea_inversion": "URBANISMO",
+    "presupuesto_total": "5254723,82",
+    "estado": "FINALIZADO"
+  },
+  {
+    "nombre": "MADRID NUEVO NORTE, NUDO DE FUENCARRAL. SOLUCIONES VIARIAS CONEXIÓN M-40, M-607 Y M-603",
+    "distrito": "FUENCARRAL-EL PARDO",
+    "direccion": "CARRETERA COLMENAR VIEJO 13",
+    "lat": 40.57311763290568,
+    "lon": -3.7040922929278053,
+    "linea_inversion": "INFRAESTRUCTURAS",
+    "presupuesto_total": "193705135,47",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "ÁMBITO CASTILLO DE LA ALAMEDA. OBRAS DE RENATURALIZACIÓN",
+    "distrito": "BARAJAS",
+    "direccion": "CALLES DE MANUEL AGUILAR MUÑOZ C/V ANTONIO SANCHA Y JOAQUÍN IBARRA",
+    "lat": 40.4598772999941,
+    "lon": -3.59238070185093,
+    "linea_inversion": "URBANISMO",
+    "presupuesto_total": "2085925,32",
+    "estado": "FINALIZADO"
+  },
+  {
+    "nombre": "CAMPUS SUR UNIVERSIDAD POLITÉCNICA DE MADRID Y ENTORNOS ESCOLARES VALLECAS. ZONAS DE BAJAS EMISIONES",
+    "distrito": "PUENTE DE VALLECAS - VILLA DE VALLECAS",
+    "direccion": "AVENIDA DEL CAMPUS SUR",
+    "lat": 40.387788,
+    "lon": -3.6308581,
+    "linea_inversion": "INFRAESTRUCTURAS",
+    "presupuesto_total": "14129926,47",
+    "estado": "FINALIZADO"
+  },
+  {
+    "nombre": "CAMPO DE FÚTBOL EN ARAVACA, C/ESCULTOR PERESEJO, BOSQUE METROPOLITANO. CONSTRUCCIÓN",
+    "distrito": "MONCLOA-ARAVACA",
+    "direccion": "CALLE DEL ESCULTOR PERESEJO 94",
+    "lat": 40.4527223724306,
+    "lon": -3.79187289486159,
+    "linea_inversion": "DEPORTES, JUVENTUD  Y ESPARCIMIENTO",
+    "presupuesto_total": "1500000,00",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "ÁMBITO DE LA CUÑA VERDE DE O´DONNELL SUR. EJECUCIÓN DEL BOSQUE METROPOLITANO",
+    "distrito": "MORATALAZ",
+    "direccion": "CALLE ARROYO DE VLA MEDIA LEGUA C/V M-23",
+    "lat": 40.414187570960046,
+    "lon": -3.649254368392708,
+    "linea_inversion": "URBANISMO",
+    "presupuesto_total": "1500000,00",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "JUNTA DE COMPENSACIÓN US 4.10 SOLANA DE VALDEBEBAS. URBANIZACIÓN",
+    "distrito": "HORTALEZA",
+    "direccion": "",
+    "lat": 40.506889,
+    "lon": -3.616083,
+    "linea_inversion": "URBANISMO",
+    "presupuesto_total": "1381690,57",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "CAMPOS DE FÚTBOL EN VALDEBEBAS (INSTALACIONES SOTENIBLES). CONSTRUCCIÓN (ID 21: 17695)",
+    "distrito": "HORTALEZA",
+    "direccion": "CALLES DE FÉLIX CANDELA C/V LUIS MOYA BLANCO Y JOSEFINA ALDECOA",
+    "lat": 40.497327,
+    "lon": -3.615194,
+    "linea_inversion": "DEPORTES, JUVENTUD  Y ESPARCIMIENTO",
+    "presupuesto_total": "2168377,27",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "AVENIDA DE LAS TRECE ROSAS. AMPLIACIÓN, MEJORA DE LA MOVILIDAD Y ESPACIOS ESTANCIALES (ID 21: 17665)",
+    "distrito": "CIUDAD LINEAL",
+    "direccion": "AVENIDA DE LAS TRECE ROSAS",
+    "lat": 40.422692,
+    "lon": -3.6479,
+    "linea_inversion": "INFRAESTRUCTURAS",
+    "presupuesto_total": "1654074,67",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "BARRIO DE ORCASUR. EJECUCIÓN DEL BOSQUE METROPOLITANO",
+    "distrito": "USERA",
+    "direccion": "CALLE DE ARENAS DEL REY",
+    "lat": 40.364439,
+    "lon": -3.700898,
+    "linea_inversion": "URBANISMO",
+    "presupuesto_total": "1468128,00",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "ÁMBITO DE LA AVENIDA DE NIZA Y ZONAS ADYACENTES. OBRAS DE RENATURALIZACIÓN",
+    "distrito": "SAN BLAS-CANILLEJAS",
+    "direccion": "AVENIDA DE NIZA",
+    "lat": 40.432528,
+    "lon": -3.606972,
+    "linea_inversion": "URBANISMO",
+    "presupuesto_total": "1500000,00",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "CALLE DE LA HULLA E INMEDIACIONES, ÁMBITO ARROYO DE BUTARQUE SUR. OBRAS DE RENATURALIZACIÓN",
+    "distrito": "VILLAVERDE",
+    "direccion": "CALLE DE LA HULLA",
+    "lat": 40.340889,
+    "lon": -3.671528,
+    "linea_inversion": "URBANISMO",
+    "presupuesto_total": "1500000,00",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "AUMENTO DE LA CAPACIDAD DEL DESAGÜE DEL TRAMO INFERIOR ARROYO DE LOS MIGUELES",
+    "distrito": "VICÁLVARO",
+    "direccion": "BERROCALES HASTA LAS INMEDIACIONES DE LA A3",
+    "lat": 40.37320354825461,
+    "lon": -3.5599462399323714,
+    "linea_inversion": "MEDIO AMBIENTE",
+    "presupuesto_total": "5098198,52",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "PARQUE DE LA CASA DE CAMPO. ACTUACIONES DE REHABILITACIÓN",
+    "distrito": "MONCLOA-ARAVACA",
+    "direccion": "PARQUE DE LA CASA DE CAMPO",
+    "lat": 40.423433,
+    "lon": -3.758581,
+    "linea_inversion": "MEDIO AMBIENTE",
+    "presupuesto_total": "5810612,60",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "PARQUE DEL RETIRO. ACTUACIONES DE REHABILITACIÓN",
+    "distrito": "RETIRO",
+    "direccion": "PLAZA DE LA INDEPENDENCIA 7",
+    "lat": 40.419683887311045,
+    "lon": -3.6879969384116786,
+    "linea_inversion": "MEDIO AMBIENTE",
+    "presupuesto_total": "1978045,00",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "ESTACIÓN REGENERADORA DE AGUAS RESIDUALES DE REJAS. OBRAS DE ADECUACIÓN Y MEJORA",
+    "distrito": "BARAJAS",
+    "direccion": "CAMINO DE LA MUÑOZA",
+    "lat": 40.451781227823204,
+    "lon": -3.535458209657427,
+    "linea_inversion": "MEDIO AMBIENTE",
+    "presupuesto_total": "67529781,55",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "ESTACIÓN REGENERADORA DE AGUAS RESIDUALES DE VALDEBEBAS. OBRAS DE ADECUACIÓN Y MEJORA",
+    "distrito": "BARAJAS",
+    "direccion": "CARRETERA ANTIGUA DE PARACUELLOS DE JARAMA 44",
+    "lat": 40.4944431,
+    "lon": -3.5501484,
+    "linea_inversion": "MEDIO AMBIENTE",
+    "presupuesto_total": "65932838,44",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "CAÑADA DEL SANTÍSIMO REHABILITACIÓN ZONAS VERDES",
+    "distrito": "VILLA DE VALLECAS",
+    "direccion": "CALLE DE LA CAÑADA DEL SANTÍSIMO",
+    "lat": 40.361063,
+    "lon": -3.601015,
+    "linea_inversion": "MEDIO AMBIENTE",
+    "presupuesto_total": "989385,04",
+    "estado": "FINALIZADO"
+  },
+  {
+    "nombre": "DEPURADORA DE BUTARQUE CONSOLIDACIÓN DE LOS TERRENOS",
+    "distrito": "VILLAVERDE",
+    "direccion": "AVENIDA DE LOS ROSALES 399",
+    "lat": 40.334267204235616,
+    "lon": -3.6637888028978547,
+    "linea_inversion": "MEDIO AMBIENTE",
+    "presupuesto_total": "3425455,78",
+    "estado": "FINALIZADO"
+  },
+  {
+    "nombre": "CENTRO DE TRATAMIENTO  LAS DEHESAS. SISTEMAS DE DESODORIZACIÓN",
+    "distrito": "VILLA DE VALLECAS",
+    "direccion": "CENTRO DE TRATAMIENTO  LAS DEHESAS",
+    "lat": 40.33552477,
+    "lon": -3.58243889,
+    "linea_inversion": "MEDIO AMBIENTE",
+    "presupuesto_total": "12186510,21",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "PARQUE PINAR DEL REY. OBRAS DE REMODELACIÓN INTEGRAL",
+    "distrito": "HORTALEZA",
+    "direccion": "CARRETERA DE CANILLAS",
+    "lat": 40.464145,
+    "lon": -3.655378,
+    "linea_inversion": "MEDIO AMBIENTE",
+    "presupuesto_total": "1376315,61",
+    "estado": "FINALIZADO"
+  },
+  {
+    "nombre": "PARQUE LA VIÑA. OBRAS DE REHABILITACIÓN",
+    "distrito": "PUENTE DE VALLECAS",
+    "direccion": "CALLE DE TIMOTEO PÉREZ RUBIO 9",
+    "lat": 40.3858280777037,
+    "lon": -3.67434489207481,
+    "linea_inversion": "MEDIO AMBIENTE",
+    "presupuesto_total": "1287345,13",
+    "estado": "FINALIZADO"
+  },
+  {
+    "nombre": "PARQUE PINAR DE LA ELIPA. OBRAS DE MEJORA (ID 18: 10392)",
+    "distrito": "CIUDAD LINEAL",
+    "direccion": "CALLE DE FÉLIX RODRIGUEZ DE LA FUENTE 26",
+    "lat": 40.41915434191835,
+    "lon": -3.6563284848379123,
+    "linea_inversion": "MEDIO AMBIENTE",
+    "presupuesto_total": "1613556,42",
+    "estado": "FINALIZADO"
+  },
+  {
+    "nombre": "COLECTORES DE VICÁLVARO B Y LA DEHESA. OBRAS DE CONEXIÓN",
+    "distrito": "VICÁLVARO",
+    "direccion": "",
+    "lat": 40.3862875,
+    "lon": -3.5784381,
+    "linea_inversion": "MEDIO AMBIENTE",
+    "presupuesto_total": "1265489,13",
+    "estado": "FINALIZADO"
+  },
+  {
+    "nombre": "ZONAS VERDES ENSANCHE DE VALLECAS. CAMINOS, ZONAS ESTANCIALES Y OTRAS MEJORAS(ID 21: 17461)",
+    "distrito": "VILLA DE VALLECAS",
+    "direccion": "AVENIDA DE LAS SUERTES 310-6",
+    "lat": 40.3651087,
+    "lon": -3.5968636,
+    "linea_inversion": "MEDIO AMBIENTE",
+    "presupuesto_total": "1524958,25",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "ZONA FORESTAL MONTECARMELO: M-607 KM.13-GTA.VENTISQUERO DE LA CONDESA.REHABILITACIÓN (ID 21: 17548)",
+    "distrito": "FUENCARRAL-EL PARDO",
+    "direccion": "AVENIDA DEL SANTUARIO DE VALVERDE 83-85",
+    "lat": 40.5070759,
+    "lon": -3.7077138,
+    "linea_inversion": "MEDIO AMBIENTE",
+    "presupuesto_total": "1851980,97",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "ZONA VERDE EN EL BARRIO DE REJAS. OBRAS DE ACONDICIONAMIENTO (ID 21: 17683)",
+    "distrito": "SAN BLAS-CANILLEJAS",
+    "direccion": "CALLE DE FUENCEMILLÁN 41-57 41-57",
+    "lat": 40.4439911,
+    "lon": -3.5718752,
+    "linea_inversion": "MEDIO AMBIENTE",
+    "presupuesto_total": "592268,35",
+    "estado": "FINALIZADO"
+  },
+  {
+    "nombre": "PARQUE DE CANILLEJAS. OBRAS DE REFORMA INTEGRAL",
+    "distrito": "SAN BLAS-CANILLEJAS",
+    "direccion": "CALLE DE CIRCE 57",
+    "lat": 40.4423525,
+    "lon": -3.6107376,
+    "linea_inversion": "MEDIO AMBIENTE",
+    "presupuesto_total": "1029989,55",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "ALIVIADEROS DE LOS ESTANQUES DE TORMENTAS DE ABROÑIGALES Y LA GAVIA. ADECUACIÓN Y ACONDICIONAMIENTO",
+    "distrito": "VILLA DE VALLECAS",
+    "direccion": "0,00 0,00",
+    "lat": 40.3492529,
+    "lon": -3.6694496,
+    "linea_inversion": "MEDIO AMBIENTE",
+    "presupuesto_total": "2872839,84",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "MARGEN IZQUIERDA DEL RÍO MANZANARES A LA ALTURA DE LA C/ADELINA PATTI. OBRAS DE REGENERACIÓN",
+    "distrito": "FUENCARRAL-EL PARDO",
+    "direccion": "CALLE DE ADELINA PATTI",
+    "lat": 40.5237273,
+    "lon": -3.7805961,
+    "linea_inversion": "MEDIO AMBIENTE",
+    "presupuesto_total": "1640000,00",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "PARQUE CERRO ALMODÓVAR. OBRAS DE REHABILITACIÓN INTEGRAL",
+    "distrito": "LATINA",
+    "direccion": "CALLE DE MARCELINO CASTILLO",
+    "lat": 40.392602,
+    "lon": -3.746611,
+    "linea_inversion": "MEDIO AMBIENTE",
+    "presupuesto_total": "1349984,83",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "PARQUE DE LAS CRUCES, DISTRITO DE LATINA. REHABILITACIÓN",
+    "distrito": "LATINA",
+    "direccion": "AVENIDA DE LOS POBLADOS",
+    "lat": 40.375579,
+    "lon": -3.756862,
+    "linea_inversion": "MEDIO AMBIENTE",
+    "presupuesto_total": "2594990,58",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "CENTRO DE TRATAMIENTO LA PALOMA. OBRAS DE MODERNIZACIÓN Y MEJORA",
+    "distrito": "VILLA DE VALLECAS",
+    "direccion": "",
+    "lat": 40.33817,
+    "lon": -3.57514,
+    "linea_inversion": "MEDIO AMBIENTE",
+    "presupuesto_total": "9891029,00",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "OBRAS DE URBANIZACIÓN ESPACIOS INTERBLOQUE PLAN ESPECIAL COLONIA URPISA",
+    "distrito": "VILLA DE VALLECAS",
+    "direccion": "COLONIA URPISA",
+    "lat": 40.38177,
+    "lon": -3.618715,
+    "linea_inversion": "URBANISMO",
+    "presupuesto_total": "2570211,00",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "CALLE DE BUJALANCE, COLONIA DEL CERRO BERMEJO. ACTUACIONES DE REGENERACIÓN URBANA",
+    "distrito": "LATINA",
+    "direccion": "CALLE BUJALANCE, FUENTE OVEJUNA, EGABRO, POZOBLANCO Y OTRAS",
+    "lat": 40.4097416,
+    "lon": -3.7271382,
+    "linea_inversion": "URBANISMO",
+    "presupuesto_total": "1647811,00",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "CALLE DE LA HACIENDA DE PAVONES, BARRIO PAVONES-LAS LATAS. ACTUACIONES DE REGENERACIÓN URBANA",
+    "distrito": "MORATALAZ",
+    "direccion": "CALLE DE LA HACIENDA DE PAVONES Y LUIS DE HOYOS SAINZ",
+    "lat": 40.4027617,
+    "lon": -3.6409968,
+    "linea_inversion": "URBANISMO",
+    "presupuesto_total": "1643147,00",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "CALLE DE SAN PEDRO DE CARDEÑA, MANOTERAS SUR. ACTUACIONES DE REGENERACIÓN URBANA",
+    "distrito": "HORTALEZA",
+    "direccion": "CALLE DE SAN PEDRO DE CARDEÑA, CRUZ LATINA, TEMPLARIOS Y OTRAS",
+    "lat": 40.4738837,
+    "lon": -3.6622347,
+    "linea_inversion": "URBANISMO",
+    "presupuesto_total": "1647811,00",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "CENTRO DEPORTIVO C/COSTANILLA DESAMPARADOS, 15 C/V A C/FÚCAR, 6. CONSTRUCCIÓN",
+    "distrito": "CENTRO",
+    "direccion": "CALLE COSTANILLA DE LOS DESAMPARADOS 15",
+    "lat": 40.411993428490256,
+    "lon": -3.6960142431122205,
+    "linea_inversion": "DEPORTES, JUVENTUD  Y ESPARCIMIENTO",
+    "presupuesto_total": "35594951,58",
+    "estado": "FINALIZADO"
+  },
+  {
+    "nombre": "BIBLIOTECA-CENTRO CULTURAL VILLA DE VALLECAS. CONSTRUCCION",
+    "distrito": "VILLA DE VALLECAS",
+    "direccion": "AVENIDA DE LA GAVIA 55",
+    "lat": 40.36707456785566,
+    "lon": -3.6164204452259043,
+    "linea_inversion": "CULTURA",
+    "presupuesto_total": "8557767,97",
+    "estado": "FINALIZADO"
+  },
+  {
+    "nombre": "CENTRO CULTURAL Y BIBLIOTECA EN MONTECARMELO. CONSTRUCCIÓN",
+    "distrito": "FUENCARRAL-EL PARDO",
+    "direccion": "AVENIDA MONTESCORIAL C/V AVENIDA MONASTERIO SILOS, 57",
+    "lat": 40.5055069,
+    "lon": -3.6980938,
+    "linea_inversion": "CULTURA",
+    "presupuesto_total": "5727814,18",
+    "estado": "FINALIZADO"
+  },
+  {
+    "nombre": "CENTRO CULTURAL Y BIBLIOTECA EN LAS TABLAS. CONSTRUCCIÓN",
+    "distrito": "FUENCARRAL-EL PARDO",
+    "direccion": "PASEO DE LA TIERRA DE MELIDE 11",
+    "lat": 40.505526438717105,
+    "lon": -3.662130317447807,
+    "linea_inversion": "CULTURA",
+    "presupuesto_total": "13421802,67",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "BIBLIOTECA EN EL DISTRITO DE CARABANCHEL. CONSTRUCCIÓN",
+    "distrito": "CARABANCHEL",
+    "direccion": "AVENIDA CARABANCHEL ALTO 51",
+    "lat": 40.3616093,
+    "lon": -3.7560156,
+    "linea_inversion": "CULTURA",
+    "presupuesto_total": "8458155,25",
+    "estado": "FINALIZADO"
+  },
+  {
+    "nombre": "CENTRO CULTURAL VALDEBEBAS. CONSTRUCCIÓN",
+    "distrito": "HORTALEZA",
+    "direccion": "AVENIDA MANUEL FRAGA IRIBARNE, 125 C/V JORDI SOLE TURA",
+    "lat": 40.4923517,
+    "lon": -3.6105398,
+    "linea_inversion": "CULTURA",
+    "presupuesto_total": "10804219,87",
+    "estado": "FINALIZADO"
+  },
+  {
+    "nombre": "CASA DE FAMILIA VILLA DE VALLECAS. CONSTRUCCIÓN",
+    "distrito": "VILLA DE VALLECAS",
+    "direccion": "AVENIDA ENSANCHE, 91 C/V FERNANDO CHUECAGOITIA",
+    "lat": 40.36130898199516,
+    "lon": -3.5938878779498156,
+    "linea_inversion": "PROTECCIÓN Y PROMOCIÓN SOCIAL",
+    "presupuesto_total": "8549649,61",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "CENTRO DE MAYORES C/ TELLEZ. CONSTRUCCION",
+    "distrito": "RETIRO",
+    "direccion": "CALLE TÉLLEZ 2",
+    "lat": 40.4042354,
+    "lon": -3.6858061,
+    "linea_inversion": "PROTECCIÓN Y PROMOCIÓN SOCIAL",
+    "presupuesto_total": "9187444,94",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "EDIFICIO MUNICIPAL C/ MONTAMARTA, 7. OBRAS DE ACONDICIONAMIENTO PARA CENTRO CULTURAL",
+    "distrito": "SAN BLAS-CANILLEJAS",
+    "direccion": "CALLE DE MONTAMARTA 7",
+    "lat": 40.4230284,
+    "lon": -3.621095,
+    "linea_inversion": "CULTURA",
+    "presupuesto_total": "3253735,36",
+    "estado": "FINALIZADO"
+  },
+  {
+    "nombre": "VESTUARIOS CAMPOS DE RUGBY Y FÚTBOL EN ENTREVÍAS. CONSTRUCCIÓN",
+    "distrito": "PUENTE DE VALLECAS",
+    "direccion": "RONDA DEL SUR (PARQUE DE ENTREVÍAS) 4",
+    "lat": 40.37787388790656,
+    "lon": -3.6738970028962754,
+    "linea_inversion": "DEPORTES, JUVENTUD  Y ESPARCIMIENTO",
+    "presupuesto_total": "1857319,07",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "CARRETERA DE VALDECARROS. ADECUACIÓN DE VIALES",
+    "distrito": "VILLA DE VALLECAS",
+    "direccion": "CARRETERA VALDECARROS",
+    "lat": 40.36126153,
+    "lon": -3.62726055,
+    "linea_inversion": "INFRAESTRUCTURAS",
+    "presupuesto_total": "6520037,10",
+    "estado": "FINALIZADO"
+  },
+  {
+    "nombre": "PLAZA DE JACINTO BENAVENTE. OBRAS DE REMODELACIÓN DE LA URBANIZACIÓN",
+    "distrito": "CENTRO",
+    "direccion": "PLAZA DE JACINTO BENAVENTE",
+    "lat": 40.41427144280748,
+    "lon": -3.7036640177895164,
+    "linea_inversion": "URBANISMO",
+    "presupuesto_total": "2500000,00",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "CASCO HISTÓRICO DE BARAJAS. OBRAS DE PEATONALIZACIÓN",
+    "distrito": "BARAJAS",
+    "direccion": "",
+    "lat": 40.472061,
+    "lon": -3.5842523,
+    "linea_inversion": "MANTENIMIENTO URBANO",
+    "presupuesto_total": "3200000,00",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "PLAZA DE SALVADOR DALÍ. REMODELACIÓN DE LA URBANIZACIÓN",
+    "distrito": "SALAMANCA",
+    "direccion": "PLAZA DE SALVADOR DALÍ",
+    "lat": 40.42395344667449,
+    "lon": -3.6733664657210228,
+    "linea_inversion": "URBANISMO",
+    "presupuesto_total": "1459197,00",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "BASE SAMUR-PROTECCION CIVIL Y CENTRO DE SALUD DEL DISTRITO DE MORATALAZ. CONSTRUCCION",
+    "distrito": "MORATALAZ",
+    "direccion": "CALLE BRUJAS 28",
+    "lat": 40.40000939236909,
+    "lon": -3.62810027406011,
+    "linea_inversion": "PROTECCIÓN CIVIL Y SEGURIDAD CIUDADANA",
+    "presupuesto_total": "5761178,83",
+    "estado": "FINALIZADO"
+  },
+  {
+    "nombre": "CENTRO MULTIFUNCIONAL C/ FRANCISCO REMIRO, 21. CONSTRUCCION",
+    "distrito": "SALAMANCA",
+    "direccion": "CALLE FRANCISCO REMIRO 21",
+    "lat": 40.43858779152413,
+    "lon": -3.666769831729441,
+    "linea_inversion": "CULTURA",
+    "presupuesto_total": "8884228,28",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "NUEVO AULARIO DEL CENTRO DE FORMACION DE SEGURIDAD Y EMERGENCIAS (CIFSE). CONSTRUCCION",
+    "distrito": "LATINA",
+    "direccion": "CALLE SEPÚLVEDA 153",
+    "lat": 40.40286845108914,
+    "lon": -3.7515003028953573,
+    "linea_inversion": "PROTECCIÓN CIVIL Y SEGURIDAD CIUDADANA",
+    "presupuesto_total": "17359325,23",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "ESCUELA DE MÚSICA EN EL DISTRITO DE PUENTE DE VALLECAS. CONSTRUCCIÓN",
+    "distrito": "PUENTE DE VALLECAS",
+    "direccion": "CALLE JAVIER DE MIGUEL 8 C/V MARTÍNEZ DE LA RIVA",
+    "lat": 40.38901771292814,
+    "lon": -3.664102470612631,
+    "linea_inversion": "EDUCACIÓN",
+    "presupuesto_total": "5343042,60",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "FACTORÍA INDUSTRIAL VILLA DE VALLECAS. CONSTRUCCIÓN",
+    "distrito": "VILLA DE VALLECAS",
+    "direccion": "AVENIDA DE CARTAGENA DE INDIAS 50",
+    "lat": 40.364956,
+    "lon": -3.640114,
+    "linea_inversion": "SECTORES PRODUCTIVOS",
+    "presupuesto_total": "10105311,65",
+    "estado": "FINALIZADO"
+  },
+  {
+    "nombre": "ESCUELA INFANTIL LOS PAJARITOS, DISTRITO DE RETIRO. CONSTRUCCIÓN",
+    "distrito": "RETIRO",
+    "direccion": "CALLE ADELFAS 6",
+    "lat": 40.40279966157042,
+    "lon": -3.6724092452246317,
+    "linea_inversion": "EDUCACIÓN",
+    "presupuesto_total": "2967039,67",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "CENTRO DE MAYORES PARQUE EUROPA. CONSTRUCCIÓN",
+    "distrito": "LATINA",
+    "direccion": "CALLE DE LA FUENTE DEL TIRO 72",
+    "lat": 40.38418397,
+    "lon": -3.77866128,
+    "linea_inversion": "PROTECCIÓN Y PROMOCIÓN SOCIAL",
+    "presupuesto_total": "6951492,28",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "ZONAS ADYACENTES JARDINES DE SABATINI CON LA PLAZA DE ESPAÑA.REURBANIZACIÓN Y ACONDICIONAMIENTO",
+    "distrito": "CENTRO",
+    "direccion": "0,00 0,00",
+    "lat": 40.420448117571745,
+    "lon": -3.7140053644180497,
+    "linea_inversion": "URBANISMO",
+    "presupuesto_total": "7522466,10",
+    "estado": "FINALIZADO"
+  },
+  {
+    "nombre": "PABELLÓN DEPORTIVO EN CALLE MÓNACO, 10, DISTRITO SAN BLAS-CANILLEJAS. CONSTRUCCIÓN",
+    "distrito": "SAN BLAS-CANILLEJAS",
+    "direccion": "CALLE DE MÓNACO 10",
+    "lat": 40.4316155,
+    "lon": -3.6042837,
+    "linea_inversion": "DEPORTES, JUVENTUD  Y ESPARCIMIENTO",
+    "presupuesto_total": "12066355,31",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "ESCUELA INFANTIL EN CALLE DE LA SILVINA, 8, BARRIO DE SAN FERMÍN. CONSTRUCCIÓN",
+    "distrito": "USERA",
+    "direccion": "AVENIDA OROVILLA C/V CALLE DE LA SILVINA",
+    "lat": 40.365188612795095,
+    "lon": -3.6916910704335586,
+    "linea_inversion": "EDUCACIÓN",
+    "presupuesto_total": "6514016,79",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "CENTRO DE BIENESTAR SOCIAL EN EL PALACIO DE LA DUQUESA DE SUECA. OBRAS DE ACONDICIONAMIENTO",
+    "distrito": "CENTRO",
+    "direccion": "PLAZA DEL DUQUE DE ALBA 2",
+    "lat": 40.411727,
+    "lon": -3.70678,
+    "linea_inversion": "PROTECCIÓN Y PROMOCIÓN SOCIAL",
+    "presupuesto_total": "10188339,76",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "UNIDAD INTEGRAL DE POLICÍA MUNICIPAL DE VICÁLVARO. CONSTRUCCIÓN",
+    "distrito": "VICÁLVARO",
+    "direccion": "CALLE DE LOS PINILLAS, 33 C/V CALLE DE CORDEL DE PAVONES",
+    "lat": 40.39933999,
+    "lon": -3.61715501,
+    "linea_inversion": "PROTECCIÓN CIVIL Y SEGURIDAD CIUDADANA",
+    "presupuesto_total": "7591924,54",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "CENTRO CULTURAL EN C/ TOMELLOSO, DISTRITO USERA. CONSTRUCCIÓN",
+    "distrito": "USERA",
+    "direccion": "CALLE DE TOMELLOSO 4",
+    "lat": 40.38188765547112,
+    "lon": -3.698510624050009,
+    "linea_inversion": "CULTURA",
+    "presupuesto_total": "8246261,12",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "PARQUE DE MANOLITO GAFOTAS. OBRAS DE REURBANIZACIÓN",
+    "distrito": "CARABANCHEL",
+    "direccion": "CALLES PINAR DE SAN JOSE, DE LA TORTA Y DE LOS MORALES",
+    "lat": 40.3605429198461,
+    "lon": -3.767755364418051,
+    "linea_inversion": "URBANISMO",
+    "presupuesto_total": "4007456,45",
+    "estado": "FINALIZADO"
+  },
+  {
+    "nombre": "EDIFICIO PASEO DEL PRADO, 30. REFORMA PARA CENTRO CULTURAL",
+    "distrito": "CENTRO",
+    "direccion": "PASEO DEL PRADO 30",
+    "lat": 40.412164985570094,
+    "lon": -3.6932496416581237,
+    "linea_inversion": "CULTURA",
+    "presupuesto_total": "3942148,00",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "UNIDAD INTEGRAL POLICÍA MUNICIPAL DEL DISTRITO DE VILLAVERDE, AVDA. REAL DE PINTO, 104. CONSTRUCCIÓN",
+    "distrito": "VILLAVERDE",
+    "direccion": "AVENIDA REAL DE PINTO 104",
+    "lat": 40.340555945925374,
+    "lon": -3.708109457062052,
+    "linea_inversion": "PROTECCIÓN CIVIL Y SEGURIDAD CIUDADANA",
+    "presupuesto_total": "8015374,99",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "TALLER DE CANTERÍA DE LA CASA DE CAMPO, NAVE 4. OBRAS DE SUBSANACIÓN DE PATOLOGÍAS",
+    "distrito": "MONCLOA-ARAVACA",
+    "direccion": "",
+    "lat": 40.437358580568926,
+    "lon": -3.74287642035187,
+    "linea_inversion": "INVERSIONES DE CARÁCTER GENERAL",
+    "presupuesto_total": "3490683,92",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "CENTRO CULTURAL-JUVENIL DISTRITO DE CIUDAD LINEAL,C/ CANAL DE PANAMÁ, 20. CONSTRUCCIÓN",
+    "distrito": "CIUDAD LINEAL",
+    "direccion": "CALLE CANAL DE PANAMÁ 20",
+    "lat": 40.44011663503319,
+    "lon": -3.6506647836513175,
+    "linea_inversion": "DEPORTES, JUVENTUD  Y ESPARCIMIENTO",
+    "presupuesto_total": "6606186,56",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "BIBLIOTECA PÚBLICA C/SILVANO,101-103 (ENTORNO GLORIETA MAR DE CRISTAL). CONSTRUCCIÓN (ID 21: 18793)",
+    "distrito": "HORTALEZA",
+    "direccion": "CALLE DE SILVANO 101",
+    "lat": 40.46398431,
+    "lon": -3.6325963,
+    "linea_inversion": "CULTURA",
+    "presupuesto_total": "8755732,53",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "CENTRO CULTURAL, BIBLIOTECA, AUDITORIO Y LUDOTECA EN EL CAÑAVERAL. CONSTRUCCIÓN (ID 21: 19005)",
+    "distrito": "VICÁLVARO",
+    "direccion": "CALLE ILUSIÓN 32",
+    "lat": 40.40618148,
+    "lon": -3.55433462,
+    "linea_inversion": "CULTURA",
+    "presupuesto_total": "13528466,60",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "CUBRICIÓN DEL VIARIO M-30 EN EL PUENTE DE VENTAS",
+    "distrito": "SALAMANCA - CIUDAD LINEAL",
+    "direccion": "0,00 0,00",
+    "lat": 40.428602043456145,
+    "lon": -3.6603723818581453,
+    "linea_inversion": "INFRAESTRUCTURAS",
+    "presupuesto_total": "87836964,00",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "COMPLEJO MANZANA DE AZCA.  RECUPERACIÓN DE ESPACIOS",
+    "distrito": "TETUÁN",
+    "direccion": "0,00 0,00",
+    "lat": 40.44950854965299,
+    "lon": -3.6931388999977415,
+    "linea_inversion": "MANTENIMIENTO URBANO",
+    "presupuesto_total": "60505000,00",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "ESPACIOS LIBRES EN EL ENTORNO DE LA CIUDAD DEPORTIVA DE SAN BLAS. REMODELACIÓN DE LA URBANIZACIÓN",
+    "distrito": "SAN BLAS-CANILLEJAS",
+    "direccion": "0,00 0,00",
+    "lat": 40.445647,
+    "lon": -3.604079,
+    "linea_inversion": "URBANISMO",
+    "presupuesto_total": "7077849,00",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "PLAZA DE MATUTE EN EL DISTRITO CENTRO. OBRAS DE REHABILITACIÓN",
+    "distrito": "CENTRO",
+    "direccion": "PLAZA DE MATUTE",
+    "lat": 40.41369174244186,
+    "lon": -3.699863839256373,
+    "linea_inversion": "MANTENIMIENTO URBANO",
+    "presupuesto_total": "1565000,00",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "SOTERRAMIENTO PASEO DE LA CASTELLANA, TRAMO COMPLEJO HOSPITALARIO LA PAZ - CALLE DE SINESIO DELGADO",
+    "distrito": "CHAMARTÍN - FUENCARRAL-EL PARDO",
+    "direccion": "0,00 0,00",
+    "lat": 40.48012630664744,
+    "lon": -3.6856615217992372,
+    "linea_inversion": "INFRAESTRUCTURAS",
+    "presupuesto_total": "128925871,00",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "PASEO DE LA DIRECCIÓN, DISTRITO DE TETUAN. OBRAS DE URBANIZACIÓN",
+    "distrito": "TETUÁN",
+    "direccion": "PASEO DE LA DIRECCIÓN 161",
+    "lat": 40.464472,
+    "lon": -3.705556,
+    "linea_inversion": "URBANISMO",
+    "presupuesto_total": "5767925,19",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "ANTIGUO MERCADO DE LEGAZPI. ACONDICIONAMIENTO PARA EQUIPAMIENTOS PÚBLICOS Y OFICINAS ADMINISTRATIVAS",
+    "distrito": "ARGANZUELA",
+    "direccion": "PLAZA DE LEGAZPI 7",
+    "lat": 40.39034134309781,
+    "lon": -3.6955112337360045,
+    "linea_inversion": "INVERSIONES DE CARÁCTER GENERAL",
+    "presupuesto_total": "82271845,74",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "VESTUARIOS CAMPOS DE RUGBY Y FÚTBOL EN ENTREVÍAS. ACONDICIONAMIENTO",
+    "distrito": "PUENTE DE VALLECAS",
+    "direccion": "CALLE RONDA DEL SUR 4",
+    "lat": 40.37916825846266,
+    "lon": -3.674525957029483,
+    "linea_inversion": "DEPORTES, JUVENTUD  Y ESPARCIMIENTO",
+    "presupuesto_total": "1527908,65",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "CENTRO DEPORTIVO MUNICIPAL VICENTE DEL BOSQUE. REFORMA INTEGRAL",
+    "distrito": "FUENCARRAL-EL PARDO",
+    "direccion": "AVENIDA DE MONFORTE DE LEMOS 12",
+    "lat": 40.4789135943213,
+    "lon": -3.693540659747283,
+    "linea_inversion": "DEPORTES, JUVENTUD  Y ESPARCIMIENTO",
+    "presupuesto_total": "16078967,09",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "CENTRO DEPORTIVO PEÑUELAS. REFORMA VASO PISCINA",
+    "distrito": "ARGANZUELA",
+    "direccion": "CALLE DE ARGANDA 25",
+    "lat": 40.39865532340664,
+    "lon": -3.704959759845779,
+    "linea_inversion": "DEPORTES, JUVENTUD  Y ESPARCIMIENTO",
+    "presupuesto_total": "5970848,88",
+    "estado": "FINALIZADO"
+  },
+  {
+    "nombre": "CENTRO DEPORTIVO LUIS ARAGONÉS. SUBSANACIÓN PATOLOGÍAS VASO DE PISCINA",
+    "distrito": "HORTALEZA",
+    "direccion": "CALLE DE EL PROVENCIO 20",
+    "lat": 40.464650948053816,
+    "lon": -3.6275877145025817,
+    "linea_inversion": "DEPORTES, JUVENTUD  Y ESPARCIMIENTO",
+    "presupuesto_total": "5324210,09",
+    "estado": "FINALIZADO"
+  },
+  {
+    "nombre": "CENTRO DEPORTIVO SAN JUAN BAUTISTA. SUBSANACIÓN PATOLOGÍAS DE VESTUARIOS, GRADA Y CAMPO DE FÚTBOL",
+    "distrito": "CIUDAD LINEAL",
+    "direccion": "CALLE DE TREVIANA 1 B",
+    "lat": 40.44864976316054,
+    "lon": -3.6585711797466836,
+    "linea_inversion": "DEPORTES, JUVENTUD  Y ESPARCIMIENTO",
+    "presupuesto_total": "3526344,99",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "CENTRO DEPORTIVO MOSCARDÓ. REFORMA VASO DE PISCINA",
+    "distrito": "USERA",
+    "direccion": "CALLE DE ANDRÉS ARTEAGA 5",
+    "lat": 40.38850290426967,
+    "lon": -3.706303079808029,
+    "linea_inversion": "DEPORTES, JUVENTUD  Y ESPARCIMIENTO",
+    "presupuesto_total": "2967077,53",
+    "estado": "FINALIZADO"
+  },
+  {
+    "nombre": "CENTRO DEPORTIVO ORCASUR. OBRAS DE REFORMA EN LA PISCINA CUBIERTA",
+    "distrito": "USERA",
+    "direccion": "CALLE DE MOREJA 11",
+    "lat": 40.37021993373859,
+    "lon": -3.6994689006077444,
+    "linea_inversion": "DEPORTES, JUVENTUD  Y ESPARCIMIENTO",
+    "presupuesto_total": "3549396,50",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "CENTRO DEPORTIVO EL ESPINILLO. SUBSANACIÓN PATOLOGÍAS EN VASO DE PISCINA",
+    "distrito": "VILLAVERDE",
+    "direccion": "CARRETERA DE VILLAVERDE A VALLECAS 19",
+    "lat": 40.35634193991933,
+    "lon": -3.686595141820635,
+    "linea_inversion": "DEPORTES, JUVENTUD  Y ESPARCIMIENTO",
+    "presupuesto_total": "1710246,19",
+    "estado": "FINALIZADO"
+  },
+  {
+    "nombre": "CENTRO DEPORTIVO ANGEL NIETO. SUBSANACIÓN PATOLOGÍAS VASO DE PISCINA",
+    "distrito": "PUENTE DE VALLECAS",
+    "direccion": "CALLE DEL PAYASO FOFÓ 22",
+    "lat": 40.39165329987117,
+    "lon": -3.659737756973531,
+    "linea_inversion": "DEPORTES, JUVENTUD  Y ESPARCIMIENTO",
+    "presupuesto_total": "3714644,84",
+    "estado": "FINALIZADO"
+  },
+  {
+    "nombre": "LOCAL CALLE POVEDILLA, 4. OBRAS DE REFORMA",
+    "distrito": "SALAMANCA",
+    "direccion": "CALLE DE LA POVEDILLA 4",
+    "lat": 40.424236393438974,
+    "lon": -3.670464456991102,
+    "linea_inversion": "INVERSIONES DE CARÁCTER GENERAL",
+    "presupuesto_total": "1142950,38",
+    "estado": "FINALIZADO"
+  },
+  {
+    "nombre": "CENTRO DEPORTIVO RAÚL GONZÁLEZ. OBRAS DE REFORMA DE PISCINA Y PABELLÓN",
+    "distrito": "VILLAVERDE",
+    "direccion": "CALLE  DE BENIMAMET 137",
+    "lat": 40.34623922780829,
+    "lon": -3.684321521723131,
+    "linea_inversion": "DEPORTES, JUVENTUD  Y ESPARCIMIENTO",
+    "presupuesto_total": "3500000,00",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "CENTRO DEPORTIVO ORCASITAS. OBRAS DE REFORMA Y ADAPTACIÓN A NORMATIVA",
+    "distrito": "USERA",
+    "direccion": "AVENIDA DE RAFAELA YBARRA 52",
+    "lat": 40.37568914850768,
+    "lon": -3.7127128983226334,
+    "linea_inversion": "DEPORTES, JUVENTUD  Y ESPARCIMIENTO",
+    "presupuesto_total": "3715316,12",
+    "estado": "FINALIZADO"
+  },
+  {
+    "nombre": "EDIFICIO C/ ALCALÁ, 45. ADAPTACIÓN A NORMATIVA DE LA INSTALACIÓN DE CLIMATIZACIÓN",
+    "distrito": "CENTRO",
+    "direccion": "CALLE DE ALCALÁ 45",
+    "lat": 40.41920995118824,
+    "lon": -3.6962762248004974,
+    "linea_inversion": "INVERSIONES DE CARÁCTER GENERAL",
+    "presupuesto_total": "6242663,64",
+    "estado": "FINALIZADO"
+  },
+  {
+    "nombre": "COMPLEJO LOGÍSTICO Y PARQUE DE BOMBEROS EN LA CALLE EL REAL DE SAN VICENTE, 61. CONSTRUCCIÓN",
+    "distrito": "VILLA DE VALLECAS",
+    "direccion": "CALLE DE EL REAL DE SAN VICENTE 61",
+    "lat": 40.3689740571625,
+    "lon": -3.633485369039536,
+    "linea_inversion": "PROTECCIÓN CIVIL Y SEGURIDAD CIUDADANA",
+    "presupuesto_total": "13635756,02",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "CENTRO CULTURAL LOS ROSALES. OBRAS DE REFORMA",
+    "distrito": "VILLAVERDE",
+    "direccion": "AVENIDA  DE LOS ROSALES 133",
+    "lat": 40.35086856116693,
+    "lon": -3.677233235261326,
+    "linea_inversion": "CULTURA",
+    "presupuesto_total": "1934689,37",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "PLAZA TIRSO DE MOLINA Y CALLES ALEDAÑAS. REMODELACIÓN Y MEJORA CONFIGURACIÓN DEL ESPACIO URBANO",
+    "distrito": "CENTRO",
+    "direccion": "PLAZA  DE TIRSO DE MOLINA",
+    "lat": 40.4123337714217,
+    "lon": -3.7046808288489075,
+    "linea_inversion": "URBANISMO",
+    "presupuesto_total": "2864117,00",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "APARTAMENTOS PARA MAYORES SAN FRANCISCO, CALLE JERTE, 3. OBRAS DE SUBSANACIÓN DE PATOLOGÍAS",
+    "distrito": "CENTRO",
+    "direccion": "CALLE DE JERTE 3",
+    "lat": 40.41079147978397,
+    "lon": -3.7155327977559396,
+    "linea_inversion": "PROTECCIÓN Y PROMOCIÓN SOCIAL",
+    "presupuesto_total": "3364294,00",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "CENTRO DEPORTIVO SAN BLAS. OBRAS DE REFORMA DEL PABELLÓN ANTONIO MATA",
+    "distrito": "SAN BLAS-CANILLEJAS",
+    "direccion": "AVENIDA DE HELLIN 47",
+    "lat": 40.42896595120841,
+    "lon": -3.615288161531782,
+    "linea_inversion": "DEPORTES, JUVENTUD  Y ESPARCIMIENTO",
+    "presupuesto_total": "2508950,10",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "CASCO ANTIGUO CARABANCHEL BAJO. REMODELACIÓN INTEGRAL Y MEJORA DE LA ACCESIBILIDAD (ID 19: 15755)",
+    "distrito": "CARABANCHEL",
+    "direccion": "PLAZA DE CARABANCHEL",
+    "lat": 40.380583,
+    "lon": -3.741028,
+    "linea_inversion": "MANTENIMIENTO URBANO",
+    "presupuesto_total": "1627834,36",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "PLAZA EN LA CALLE SAN POL DE MAR. ACTUACIONES DE RECUPERACIÓN (ID 21: 18511)",
+    "distrito": "MONCLOA-ARAVACA",
+    "direccion": "CALLE DE SAN POL DE MAR 6",
+    "lat": 40.423778,
+    "lon": -3.727389,
+    "linea_inversion": "MANTENIMIENTO URBANO",
+    "presupuesto_total": "961517,37",
+    "estado": "FINALIZADO"
+  },
+  {
+    "nombre": "ENTORNO DEL MERCADO NUEVA NUMANCIA. REURBANIZACIÓN Y ORDENACIÓN DEL ESPACIO PÚBLICO (ID 21: 18869)",
+    "distrito": "PUENTE DE VALLECAS",
+    "direccion": "",
+    "lat": 40.39370459675269,
+    "lon": -3.65794511309635,
+    "linea_inversion": "URBANISMO",
+    "presupuesto_total": "1868107,88",
+    "estado": "FINALIZADO"
+  },
+  {
+    "nombre": "CALLE DE GOYA. OBRAS DE REMODELACIÓN",
+    "distrito": "SALAMANCA",
+    "direccion": "CALLE  DE GOYA",
+    "lat": 40.4253779732797,
+    "lon": -3.6874977252567662,
+    "linea_inversion": "URBANISMO",
+    "presupuesto_total": "14940000,00",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "PLAZA DE CHAMBERÍ. OBRAS DE RMODELACIÓN",
+    "distrito": "CHAMBERÍ",
+    "direccion": "PLAZA  DE CHAMBERÍ",
+    "lat": 40.432829504419146,
+    "lon": -3.6971966378322265,
+    "linea_inversion": "URBANISMO",
+    "presupuesto_total": "1350000,00",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "PLAZA DEL DOS DE MAYO. OBRAS DE REMODELACIÓN",
+    "distrito": "CENTRO",
+    "direccion": "PLAZA DEL DOS DE MAYO",
+    "lat": 40.42694897710782,
+    "lon": -3.7040568348432257,
+    "linea_inversion": "URBANISMO",
+    "presupuesto_total": "2330000,00",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "PAISAJE DE LA LUZ. BULEVAR DE LA C/ ALCALÁ: PLAZA CIBELES - PLAZA DE LA INDEPENDENCIA. REMODELACIÓN",
+    "distrito": "RETIRO",
+    "direccion": "CALLE DE ALCALÁ 50-58",
+    "lat": 40.4197158960838,
+    "lon": -3.690830111487092,
+    "linea_inversion": "URBANISMO",
+    "presupuesto_total": "3120000,00",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "CENTRO MUNICIPAL DE URGENCIAS SOCIALES (CEMUS). CONSTRUCCIÓN",
+    "distrito": "PUENTE DE VALLECAS",
+    "direccion": "CALLE DE LOS ARAGONESES C/V AVENIDA DE MIGUEL HERNÁNDEZ",
+    "lat": 40.38144423687468,
+    "lon": -3.643293848731727,
+    "linea_inversion": "PROTECCIÓN Y PROMOCIÓN SOCIAL",
+    "presupuesto_total": "5150000,00",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "CENTRO DEPORTIVO MUNICIPAL MARQUÉS DE SAMARANCH. AMPLIACIÓN PISTAS PÁDEL",
+    "distrito": "ARGANZUELA",
+    "direccion": "PASEO  IMPERIAL 20",
+    "lat": 40.407673824448445,
+    "lon": -3.717362361873155,
+    "linea_inversion": "DEPORTES, JUVENTUD  Y ESPARCIMIENTO",
+    "presupuesto_total": "1350000,00",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "CENTRO DE MAYORES Y DÍA LAS ROSAS. CONSTRUCCIÓN",
+    "distrito": "SAN BLAS-CANILLEJAS",
+    "direccion": "CALLE DE KELSINKI, 1 C/V PASEO DE GINEBRA",
+    "lat": 40.42434973620814,
+    "lon": -3.602973897093649,
+    "linea_inversion": "PROTECCIÓN Y PROMOCIÓN SOCIAL",
+    "presupuesto_total": "10150000,00",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "CARRETERA DEL BARRIO DE LA FORTUNA. REMODELACIÓN COMO VIARIO URBANO",
+    "distrito": "LATINA",
+    "direccion": "CARRETERA DEL BARRIO DE LA FORTUNA",
+    "lat": 40.365329817562206,
+    "lon": -3.7723479311804797,
+    "linea_inversion": "URBANISMO",
+    "presupuesto_total": "2320000,00",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "PAISAJE DE LA LUZ. PASEO DEL PRADO, DISTRITO DE RETIRO. OBRAS DE REMODELACIÓN",
+    "distrito": "RETIRO",
+    "direccion": "PASEO DEL PRADO",
+    "lat": 40.414296945394,
+    "lon": -3.693649617431989,
+    "linea_inversion": "URBANISMO",
+    "presupuesto_total": "4525000,00",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "PASARELA PEATONAL Y CICLISTA CONEXIÓN ARGANZUELA-CARABANCHEL SOBRE EL RÍO MANZANARES. CONSTRUCCIÓN",
+    "distrito": "ARGANZUELA - CARABANCHEL",
+    "direccion": "",
+    "lat": 40.40217176894073,
+    "lon": -3.7218340780521264,
+    "linea_inversion": "INFRAESTRUCTURAS",
+    "presupuesto_total": "1920000,00",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "CONEXIÓN PEATONAL CALLES SEPÚLVEDA Y MONSALUPE. MEJORA ACCESIBILIDAD (ID 20: 13124)",
+    "distrito": "LATINA",
+    "direccion": "CALLE SEPÚLVEDA Y MONSALUPE 206 Y 6",
+    "lat": 40.401806,
+    "lon": -3.752611,
+    "linea_inversion": "INFRAESTRUCTURAS",
+    "presupuesto_total": "1686106,47",
+    "estado": "FINALIZADO"
+  },
+  {
+    "nombre": "ZONA VERDE EN C/ PRIMITIVA GAÑÁN, DISTRITO USERA. CREACIÓN",
+    "distrito": "USERA",
+    "direccion": "CALLE DE PRIMITIVA GAÑAN 8-10",
+    "lat": 40.37943,
+    "lon": -3.70857,
+    "linea_inversion": "MEDIO AMBIENTE",
+    "presupuesto_total": "1000000,00",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "CAMPO DE RUGBY EN C/FUENTE CARRANTONA S/N, DISTRITO DE MORATALAZ. CONSTRUCCIÓN (ID 19: 11015)",
+    "distrito": "MORATALAZ",
+    "direccion": "CALLE DE LA FUENTE CARRANTONA S/N",
+    "lat": 40.41303662611689,
+    "lon": -3.6270552320205773,
+    "linea_inversion": "DEPORTES, JUVENTUD  Y ESPARCIMIENTO",
+    "presupuesto_total": "2692831,35",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "PARCELA C/ENCOMIENDA PALACIOS,231. ADECUACIÓN ESPACIO PARA RECINTO FERIAL Y EVENTOS",
+    "distrito": "MORATALAZ",
+    "direccion": "CALLE DE LA ENCOMIENDA DE PALACIOS 231",
+    "lat": 40.399063581414595,
+    "lon": -3.635347999999999,
+    "linea_inversion": "CULTURA",
+    "presupuesto_total": "2914350,00",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "ESCUELA DE MÚSICA EN C/ HURTUMPASCUAL, DISTRITO LATINA. CONSTRUCCIÓN",
+    "distrito": "LATINA",
+    "direccion": "CALLE HURTUMPASCUAL 1 y 3",
+    "lat": 40.4011395,
+    "lon": -3.7451803,
+    "linea_inversion": "EDUCACIÓN",
+    "presupuesto_total": "5909975,12",
+    "estado": "FINALIZADO"
+  },
+  {
+    "nombre": "PARQUE DEPORTIVO TRES LUCES,C/FRANCISCO LARGO CABALLERO Y AV.ARCENTALES.CONSTRUCCIÓN (ID 21: 18880)",
+    "distrito": "CIUDAD LINEAL",
+    "direccion": "CALLE DE GANDHI CRUCE CALLE DE JOSÉ ARCONES GIL",
+    "lat": 40.425008,
+    "lon": -3.631938,
+    "linea_inversion": "DEPORTES, JUVENTUD  Y ESPARCIMIENTO",
+    "presupuesto_total": "1393397,28",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "COMPLEJO EDIFICIOS NAVAS DE TOLOSA. OBRAS RENATURALIZACIÓN Y REHABILITACIÓN",
+    "distrito": "VILLAVERDE",
+    "direccion": "CALLE DE BENIMAMET 109",
+    "lat": 40.34487624822848,
+    "lon": -3.6860874208527865,
+    "linea_inversion": "INVERSIONES DE CARÁCTER GENERAL",
+    "presupuesto_total": "5400000,00",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "CAMPO DE FÚTBOL EN EL CAÑAVERAL. CONSTRUCCIÓN",
+    "distrito": "VICÁLVARO",
+    "direccion": "CALLE DE LA IGUALDAD 41",
+    "lat": 40.4074226,
+    "lon": -3.5598948,
+    "linea_inversion": "DEPORTES, JUVENTUD  Y ESPARCIMIENTO",
+    "presupuesto_total": "1374989,10",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "DEPORTIVO BÁSICO EL CAÑAVERAL II. OBRAS DE CONSTRUCCIÓN",
+    "distrito": "VICÁLVARO",
+    "direccion": "CALLE DE LA TOLERANCIA 22",
+    "lat": 40.40541931971199,
+    "lon": -3.5571253646821255,
+    "linea_inversion": "DEPORTES, JUVENTUD  Y ESPARCIMIENTO",
+    "presupuesto_total": "1047904,03",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "CONSTRUCCIONES  Plan de Negocio Madrid Nuevo Norte",
+    "distrito": "CHAMARTÍN",
+    "direccion": "Calle Mauricio Legendre 38",
+    "lat": 40.4621,
+    "lon": -3.6766,
+    "linea_inversion": "URBANISMO",
+    "presupuesto_total": "103749366,00",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "VIVIENDA DE PROTECCIÓN PÚBLICA BÁSICA ALQUILER. PROMOCIÓN VICALVARO. M 39B",
+    "distrito": "VICÁLVARO",
+    "direccion": "Calle Calle Diálogo 63",
+    "lat": 40.4067044,
+    "lon": -3.556465,
+    "linea_inversion": "VIVENDA",
+    "presupuesto_total": "18589000,00",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "VIVIENDA DE PROTECCIÓN PÚBLICA BÁSICA ALQUILER. PROMOCIÓN VICALVARO. T 10BC",
+    "distrito": "VICÁLVARO",
+    "direccion": "Calle Ilusión 41",
+    "lat": 40.405684,
+    "lon": -3.5572887,
+    "linea_inversion": "VIVENDA",
+    "presupuesto_total": "17001919,79",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "VIVIENDA DE PROTECCIÓN PÚBLICA BÁSICA ALQUILER. PROMOCIÓN VICALVARO. M 5C",
+    "distrito": "VICÁLVARO",
+    "direccion": "Calle Arroyo Cañaveral 75",
+    "lat": 40.4002565,
+    "lon": -3.5605078,
+    "linea_inversion": "VIVENDA",
+    "presupuesto_total": "15074663,80",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "VIVIENDA DE PROTECCIÓN PÚBLICA BÁSICA ALQUILER. PROMOCIÓN VICALVARO. M 34B",
+    "distrito": "VICÁLVARO",
+    "direccion": "Avenida Miguel Delibes 65",
+    "lat": 40.405514,
+    "lon": -3.5615997,
+    "linea_inversion": "VIVENDA",
+    "presupuesto_total": "15404825,61",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "VIVIENDA DE PROTECCIÓN PÚBLICA BÁSICA ALQUILER. PROMOCIÓN VICALVARO. T 6B",
+    "distrito": "VICÁLVARO",
+    "direccion": "Calle Enrique Urquijo 91",
+    "lat": 40.4010441,
+    "lon": -3.5618687,
+    "linea_inversion": "VIVENDA",
+    "presupuesto_total": "9879432,49",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "VIVIENDA DE PROTECCIÓN PÚBLICA BÁSICA ALQUILER. PROMOCIÓN VICALVARO. T 6A",
+    "distrito": "VICÁLVARO",
+    "direccion": "Calle Enrique Urquijo 81",
+    "lat": 40.4007041,
+    "lon": -3.5621687,
+    "linea_inversion": "VIVENDA",
+    "presupuesto_total": "10105466,55",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "VIVIENDA DE PROTECCIÓN PÚBLICA BÁSICA ALQUILER. PROMOCIÓN VICALVARO. M 30A",
+    "distrito": "VICÁLVARO",
+    "direccion": "Avenida Miguel Delibes 50",
+    "lat": 40.4054441,
+    "lon": -3.5638987,
+    "linea_inversion": "VIVENDA",
+    "presupuesto_total": "13559000,00",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "VIVIENDA DE PROTECCIÓN PÚBLICA BÁSICA ALQUILER. PROMOCIÓN VICALVARO. M 30D",
+    "distrito": "VICÁLVARO",
+    "direccion": "Calle Jose Escobar Y Saliente 80",
+    "lat": 40.4048787,
+    "lon": -3.5647897,
+    "linea_inversion": "VIVENDA",
+    "presupuesto_total": "15233549,07",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "VIVIENDA DE PROTECCIÓN PÚBLICA BÁSICA ALQUILER. PROMOCIÓN NUESTRA SEÑORA  DE LOS ANGELES 3",
+    "distrito": "PUENTE DE VALLECAS",
+    "direccion": "Calle Martínez de la Riva 100",
+    "lat": 40.386498,
+    "lon": -3.6663675,
+    "linea_inversion": "VIVENDA",
+    "presupuesto_total": "13202407,68",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "VIVIENDA DE PROTECCIÓN PÚBLICA BÁSICA ALQUILER. PROMOCIÓN BLOQUES 300",
+    "distrito": "VILLAVERDE",
+    "direccion": "Calle Rocafort 28-48 28-48",
+    "lat": 40.34134872232715,
+    "lon": -3.686282049493836,
+    "linea_inversion": "VIVENDA",
+    "presupuesto_total": "14829029,27",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "VIVIENDA DE PROTECCIÓN PÚBLICA BÁSICA ALQUILER. PROMOCIÓN LOS OLIVOS FASE 3",
+    "distrito": "LATINA",
+    "direccion": "Calle San Fulgencio, 2 2",
+    "lat": 40.40536131163488,
+    "lon": -3.7359904427412176,
+    "linea_inversion": "VIVENDA",
+    "presupuesto_total": "4257272,50",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "VIVIENDA DE PROTECCIÓN PÚBLICA BÁSICA ALQUILER. PROMOCIÓN LOS OLIVOS FASE 4",
+    "distrito": "LATINA",
+    "direccion": "Calle San Timoteo, 27 27",
+    "lat": 40.40499514578109,
+    "lon": -3.7363328018389876,
+    "linea_inversion": "VIVENDA",
+    "presupuesto_total": "9169202,09",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "VIVIENDA DE PROTECCIÓN PÚBLICA BÁSICA ALQUILER. PROMOCIÓN ARROYO DEL FRESNO 3B",
+    "distrito": "FUENCARRAL-EL PARDO",
+    "direccion": "Calle María de Maeztu, 24 24",
+    "lat": 40.48890230324697,
+    "lon": -3.7305976576717415,
+    "linea_inversion": "VIVENDA",
+    "presupuesto_total": "9949365,62",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "VIVIENDA DE PROTECCIÓN PÚBLICA BÁSICA ALQUILER. PROMOCIÓN CARABANCHEL (4.7.2.) PMS 29676",
+    "distrito": "CARABANCHEL",
+    "direccion": "Avenida Euro 37 37",
+    "lat": 40.3643405170415,
+    "lon": -3.7498414071632675,
+    "linea_inversion": "VIVENDA",
+    "presupuesto_total": "6267165,67",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "VIVIENDA DE PROTECCIÓN PÚBLICA BÁSICA ALQUILER. PROMOCIÓN Pº DIRECCIÓN (D-1) PMS 31339",
+    "distrito": "TETUÁN",
+    "direccion": "Calle Capitán Blanco Argibay nº 149 149",
+    "lat": 40.46806862433695,
+    "lon": -3.707386228863465,
+    "linea_inversion": "VIVENDA",
+    "presupuesto_total": "24655366,92",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "VIVIENDA DE PROTECCIÓN PÚBLICA BÁSICA ALQUILER. PROMOCIÓN EL CAÑAVERAL 13 (M34 CD)",
+    "distrito": "VICÁLVARO",
+    "direccion": "Calle Tolerancia, 19 19",
+    "lat": 40.4056661494637,
+    "lon": -3.5571036000275953,
+    "linea_inversion": "VIVENDA",
+    "presupuesto_total": "31381854,36",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "VIVIENDA DE PROTECCIÓN PÚBLICA BÁSICA ALQUILER. PROMOCIÓNEL ESPINILLO S6-P8",
+    "distrito": "VILLAVERDE",
+    "direccion": "Calle Conciliación, 7 7",
+    "lat": 40.360707491974814,
+    "lon": -3.6918870359995175,
+    "linea_inversion": "VIVENDA",
+    "presupuesto_total": "17634172,17",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "VIVIENDA DE PROTECCIÓN PÚBLICA BÁSICA ALQUILER. PROMOCIÓN NTRA.SEÑORA DE LORETO PARCELA 3",
+    "distrito": "BARAJAS",
+    "direccion": "Calle Venus, 5 5",
+    "lat": 40.478115096648175,
+    "lon": -3.5782742015807547,
+    "linea_inversion": "VIVENDA",
+    "presupuesto_total": "11991493,62",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "VIVIENDA DE PROTECCIÓN PÚBLICA BÁSICA ALQUILER. PROMOCIÓN NTRA. SEÑORA DE LORETO PARCELA 4",
+    "distrito": "BARAJAS",
+    "direccion": "Calle Venus, 1 1",
+    "lat": 40.47844969402517,
+    "lon": -3.578488778315957,
+    "linea_inversion": "VIVENDA",
+    "presupuesto_total": "12941451,23",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "VIVIENDA DE PROTECCIÓN PÚBLICA BÁSICA ALQUILER. PROMOCIÓN PASEO DE LA DIRECCIÓN D-2",
+    "distrito": "TETUÁN",
+    "direccion": "Calle Alberdi, 4 4",
+    "lat": 40.4661601193303,
+    "lon": -3.707966235988728,
+    "linea_inversion": "VIVENDA",
+    "presupuesto_total": "15591765,62",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "VIVIENDA DE PROTECCIÓN PÚBLICA BÁSICA ALQUILER. PROMOCIÓN VALLECAS 2,70",
+    "distrito": "VILLA DE VALLECAS",
+    "direccion": "Avenida Ensanche de Vallecas, 33 33",
+    "lat": 40.363734242880575,
+    "lon": -3.6006287359992024,
+    "linea_inversion": "VIVENDA",
+    "presupuesto_total": "18628900,07",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "VIVIENDA DE PROTECCIÓN PÚBLICA BÁSICA ALQUILER. PROMOCIÓN VICÁLVARO LA CATALANA 1B Y 1 C",
+    "distrito": "VICÁLVARO",
+    "direccion": "Calle Abad Juan Catalán,62 62",
+    "lat": 40.40736336216644,
+    "lon": -3.5918692783231014,
+    "linea_inversion": "VIVENDA",
+    "presupuesto_total": "15819200,08",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "VIVIENDA DE PROTECCIÓN PÚBLICA BÁSICA ALQUILER 4.8.2 D DE LA UE1 DEL UZI 0.10 “ENSANCHE DE CARABA",
+    "distrito": "CARABANCHEL",
+    "direccion": "Calle  Tremis 2",
+    "lat": 40.36447501574453,
+    "lon": -3.7466021071632807,
+    "linea_inversion": "VIVENDA",
+    "presupuesto_total": "8556877,74",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "VIVIENDA DE PROTECCIÓN PÚBLICA BÁSICA ALQUILER.PASEO DIRECCIÓN 05 C1",
+    "distrito": "TETUÁN",
+    "direccion": "Paseo De la Dirección 318",
+    "lat": 40.46941008974679,
+    "lon": -3.7049882192727357,
+    "linea_inversion": "VIVENDA",
+    "presupuesto_total": "42242344,45",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "VIVIENDA DE PROTECCIÓN PÚBLICA BÁSICA ALQUILER. MAHOU CALDERON RC3",
+    "distrito": "ARGANZUELA",
+    "direccion": "Paseo Imperial  34",
+    "lat": 40.403402095179395,
+    "lon": -3.715811557670815,
+    "linea_inversion": "VIVENDA",
+    "presupuesto_total": "38909132,71",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "VIVIENDA DE PROTECCIÓN PÚBLICA BÁSICA ALQUILER. BARRIO AEROPUERTO 01 (R1)",
+    "distrito": "BARAJAS",
+    "direccion": "Calle Trespaderne",
+    "lat": 40.451365819486,
+    "lon": -3.5809551319087967,
+    "linea_inversion": "VIVENDA",
+    "presupuesto_total": "5533070,26",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "VIVIENDA DE PROTECCIÓN PÚBLICA BÁSICA ALQUILER.OFELIA NIETO",
+    "distrito": "TETUÁN",
+    "direccion": "Calle Sanchez Preciados 32",
+    "lat": 40.46006128674234,
+    "lon": -3.7110501895793013,
+    "linea_inversion": "VIVENDA",
+    "presupuesto_total": "6300943,07",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "VIVIENDA DE PROTECCIÓN PÚBLICA BÁSICA ALQUILER. BERROCALES F3 2.8.1",
+    "distrito": "VICÁLVARO",
+    "direccion": "- -",
+    "lat": 40.369026,
+    "lon": -3.581555,
+    "linea_inversion": "VIVENDA",
+    "presupuesto_total": "15115508,03",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "VIVIENDA DE PROTECCIÓN PÚBLICA BÁSICA ALQUILER. BERROCALES F3 3.8.1+3.8.2",
+    "distrito": "VICÁLVARO",
+    "direccion": "- -",
+    "lat": 40.369694,
+    "lon": -3.580917,
+    "linea_inversion": "VIVENDA",
+    "presupuesto_total": "33369349,59",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "VIVIENDA DE PROTECCIÓN PÚBLICA BÁSICA ALQUILER. BERROCALES F3 4.8.1+4.8.2",
+    "distrito": "VICÁLVARO",
+    "direccion": "- -",
+    "lat": 40.370552,
+    "lon": -3.580246,
+    "linea_inversion": "VIVENDA",
+    "presupuesto_total": "33369349,59",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "VIVIENDA DE PROTECCIÓN PÚBLICA BÁSICA ALQUILER. BERROCALES F3 4.9.1+4.9.2",
+    "distrito": "VICÁLVARO",
+    "direccion": "- -",
+    "lat": 40.370038,
+    "lon": -3.579205,
+    "linea_inversion": "VIVENDA",
+    "presupuesto_total": "33369349,59",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "VIVIENDA DE PROTECCIÓN PÚBLICA BÁSICA ALQUILER. BERROCALES F3 4.10.1+4.10.2",
+    "distrito": "VICÁLVARO",
+    "direccion": "- -",
+    "lat": 40.369587,
+    "lon": -3.578231,
+    "linea_inversion": "VIVENDA",
+    "presupuesto_total": "33369349,59",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "VIVIENDA DE PROTECCIÓN PÚBLICA BÁSICA ALQUILER. DOTACIONAL LAS TABLAS PMS 18032",
+    "distrito": "FUENCARRAL-EL PARDO",
+    "direccion": "Calle Castillo Candanchú/Villaba/Obanos",
+    "lat": 40.49928,
+    "lon": -3.676451,
+    "linea_inversion": "VIVENDA",
+    "presupuesto_total": "40551345,51",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "VIVIENDA DE PROTECCIÓN PÚBLICA BÁSICA ALQUILER. DOTACIONAL SANCHINARRO PMS 17546 FASE I",
+    "distrito": "HORTALEZA",
+    "direccion": "Avda/Calle Pi y Margall/Ing. Emilio Herrera/Princesa de Éboli",
+    "lat": 40.488993,
+    "lon": -3.654414,
+    "linea_inversion": "VIVENDA",
+    "presupuesto_total": "36198653,10",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "VIVIENDA DE PROTECCIÓN PÚBLICA BÁSICA ALQUILER. DOTACIONAL SANCHINARRO PMS 17546 FASE II",
+    "distrito": "HORTALEZA",
+    "direccion": "Avenida Pi y Margall/Ing. Emilio Herrera/Princesa de Éboli",
+    "lat": 40.488993,
+    "lon": -3.654414,
+    "linea_inversion": "VIVENDA",
+    "presupuesto_total": "36198653,10",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "VIVIENDA DE PROTECCIÓN PÚBLICA BÁSICA ALQUILER. DOTACIONAL CARABANCHEL PMS 20931",
+    "distrito": "CARABANCHEL",
+    "direccion": "Calle Vía Lusitana/Catorce Olivas",
+    "lat": 40.365372,
+    "lon": -3.741755,
+    "linea_inversion": "VIVENDA",
+    "presupuesto_total": "53178332,49",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "VIVIENDA DE PROTECCIÓN PÚBLICA BÁSICA ALQUILER. DOTACIONAL VALLECAS PMS 20182",
+    "distrito": "VILLA DE VALLECAS",
+    "direccion": "Avda/Calle De la Suertes/Adolfo Marsillach/Antonio Gades/Fernando Chueca Goitia",
+    "lat": 40.363626,
+    "lon": -3.5934,
+    "linea_inversion": "VIVENDA",
+    "presupuesto_total": "24111291,40",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "VIVIENDA DE PROTECCIÓN PÚBLICA BÁSICA ALQUILER. LOS AHIJONES F2 (RMA 3.1+3.2)",
+    "distrito": "VICÁLVARO",
+    "direccion": "",
+    "lat": 40.392469,
+    "lon": -3.564475,
+    "linea_inversion": "VIVENDA",
+    "presupuesto_total": "24248665,20",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "VIVIENDA DE PROTECCIÓN PÚBLICA BÁSICA ALQUILER. LOS AHIJONES F2 (RMA 3.3+3.4)",
+    "distrito": "VICÁLVARO",
+    "direccion": "",
+    "lat": 40.392036,
+    "lon": -3.56484,
+    "linea_inversion": "VIVENDA",
+    "presupuesto_total": "24248665,20",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "OBRAS CAJA MÁGICA",
+    "distrito": "USERA",
+    "direccion": "Camino Perales 23",
+    "lat": 40.36871466198733,
+    "lon": -3.6841715461243822,
+    "linea_inversion": "DEPORTES, JUVENTUD  Y ESPARCIMIENTO",
+    "presupuesto_total": "29000000,09",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "REHABILITACIONES RRFF. PABELLÓN CRISTAL",
+    "distrito": "MONCLOA-ARAVACA",
+    "direccion": "Avenida Principal, 16 Y Avenida Portugal S/n",
+    "lat": 40.414589601150006,
+    "lon": -3.737905359618084,
+    "linea_inversion": "INVERSIONES DE CARÁCTER GENERAL",
+    "presupuesto_total": "1300000,00",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "ADECUACIÓN CENTROS. PABELLÓN BANCADAS",
+    "distrito": "MONCLOA-ARAVACA",
+    "direccion": "Calle del Arroz",
+    "lat": 40.41591086726451,
+    "lon": -3.7365028614655538,
+    "linea_inversion": "INVERSIONES DE CARÁCTER GENERAL",
+    "presupuesto_total": "5004205,68",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "INSTALACIONES CENTROS. NAVE 16 + NAVE 11 MATADERO",
+    "distrito": "ARGANZUELA",
+    "direccion": "Plaza de Legazpi 8",
+    "lat": 40.391155797932186,
+    "lon": -3.696754726543702,
+    "linea_inversion": "CULTURA",
+    "presupuesto_total": "2609957,19",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "OBRAS NAVE 16 DE MATADERO PARA LA INSTALACIÓN DE S",
+    "distrito": "ARGANZUELA",
+    "direccion": "Plaza de Legazpi 8",
+    "lat": 40.391155797932186,
+    "lon": -3.696754726543702,
+    "linea_inversion": "CULTURA",
+    "presupuesto_total": "1070380,51",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "OBRAS DE ADECUACIÓN DE ALMACENES GENERALES (MADRID",
+    "distrito": "ARGANZUELA",
+    "direccion": "Plaza de Legazpi 8",
+    "lat": 40.391155797932186,
+    "lon": -3.696754726543702,
+    "linea_inversion": "CULTURA",
+    "presupuesto_total": "2203736,00",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "OBRAS DE REHABILITACIÓN DEL PABELLÓN XII FASE I",
+    "distrito": "MONCLOA-ARAVACA",
+    "direccion": "Avenida Principal 17",
+    "lat": 40.414589601150006,
+    "lon": -3.737905359618084,
+    "linea_inversion": "CULTURA",
+    "presupuesto_total": "11836911,61",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "RENOVACION TANATORIOS-Tº M30",
+    "distrito": "CIUDAD LINEAL",
+    "direccion": "Calle Salvador De Madariaga 11",
+    "lat": 40.4401633,
+    "lon": -3.6598874,
+    "linea_inversion": "SALUD PÚBLICA",
+    "presupuesto_total": "976399,06",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "REHABILITACIÓN CEMENTERIOS Cº LA ALMUDENA",
+    "distrito": "CIUDAD LINEAL",
+    "direccion": "Avenida de Daroca 90",
+    "lat": 40.425493779123705,
+    "lon": -3.6463705378048585,
+    "linea_inversion": "SALUD PÚBLICA",
+    "presupuesto_total": "5595840,70",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "ACOND. EDIF LAT. IZQ PÓRTICO-Cº LA ALMUDENA",
+    "distrito": "CIUDAD LINEAL",
+    "direccion": "Avenida de Daroca 90",
+    "lat": 40.42605884918717,
+    "lon": -3.64609775690994,
+    "linea_inversion": "SALUD PÚBLICA",
+    "presupuesto_total": "2278956,52",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "UNIDADES DE ENTERRAMIENTO (Almudena)",
+    "distrito": "CIUDAD LINEAL",
+    "direccion": "Avenida de Daroca 90",
+    "lat": 40.42560403792112,
+    "lon": -3.645866282547669,
+    "linea_inversion": "SALUD PÚBLICA",
+    "presupuesto_total": "4780263,89",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "UNIDADES DE ENTERRAMIENTO (Carabanchel Sur)",
+    "distrito": "CARABANCHEL",
+    "direccion": "Calle Ildefonso González Valencia 2",
+    "lat": 40.36802649157321,
+    "lon": -3.7222230955216205,
+    "linea_inversion": "SALUD PÚBLICA",
+    "presupuesto_total": "2365000,00",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "VARIOS MOVILIDAD Y SERVICIOS COMUNES",
+    "distrito": "VILLA DE VALLECAS",
+    "direccion": "Avenida Madrid",
+    "lat": 40.3580939867763,
+    "lon": -3.660736171381618,
+    "linea_inversion": "SECTORES PRODUCTIVOS",
+    "presupuesto_total": "14639754,00",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "ASFALTADO",
+    "distrito": "VILLA DE VALLECAS",
+    "direccion": "Avenida Madrid",
+    "lat": 40.3616249,
+    "lon": -3.664242,
+    "linea_inversion": "SECTORES PRODUCTIVOS",
+    "presupuesto_total": "4800000,00",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "VARIOS MERCADOS CENTRALES Y EDIFICACIONES",
+    "distrito": "VILLA DE VALLECAS",
+    "direccion": "Avenida Madrid",
+    "lat": 40.36258984193834,
+    "lon": -3.6636868191211662,
+    "linea_inversion": "SECTORES PRODUCTIVOS",
+    "presupuesto_total": "9199520,00",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "URBANIZACIÓN PLAZA ZONA COMERCIAL",
+    "distrito": "VILLA DE VALLECAS",
+    "direccion": "Avenida Madrid",
+    "lat": 40.3585575,
+    "lon": -3.6675801,
+    "linea_inversion": "SECTORES PRODUCTIVOS",
+    "presupuesto_total": "3560000,00",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "VARIOS AMPLIACIÓN MERCAMADRID Y NUEVOS PROYECTOS",
+    "distrito": "VILLA DE VALLECAS",
+    "direccion": "Avenida Madrid",
+    "lat": 40.3655779,
+    "lon": -3.6680694,
+    "linea_inversion": "SECTORES PRODUCTIVOS",
+    "presupuesto_total": "7311212,00",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "CENTRO DE CONOCIMIENTO E INNOVACIÓN",
+    "distrito": "VILLA DE VALLECAS",
+    "direccion": "Avenida Madrid",
+    "lat": 40.36085563,
+    "lon": -3.66389155,
+    "linea_inversion": "SECTORES PRODUCTIVOS",
+    "presupuesto_total": "13067400,00",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "APARCAMIENTOS",
+    "distrito": "VILLA DE VALLECAS",
+    "direccion": "Avenida Madrid",
+    "lat": 40.36072482,
+    "lon": -3.65816235,
+    "linea_inversion": "SECTORES PRODUCTIVOS",
+    "presupuesto_total": "4280000,00",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "NAVE MULTISERVICIO 1",
+    "distrito": "VILLA DE VALLECAS",
+    "direccion": "Avenida Madrid",
+    "lat": 40.36368387,
+    "lon": -3.65801895,
+    "linea_inversion": "SECTORES PRODUCTIVOS",
+    "presupuesto_total": "6700000,00",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "NAVE MULTISERVICIO 2",
+    "distrito": "VILLA DE VALLECAS",
+    "direccion": "Avenida Madrid",
+    "lat": 40.36194261,
+    "lon": -3.65625942,
+    "linea_inversion": "SECTORES PRODUCTIVOS",
+    "presupuesto_total": "10900000,00",
+    "estado": "EN PROCESO"
+  },
+  {
+    "nombre": "REFORMA CAMPO DE GOLF RECORRIDO BALLESTEROS",
+    "distrito": "MONCLOA-ARAVACA",
+    "direccion": "Crta Ctra Castilla 2",
+    "lat": 4.045089,
+    "lon": -3.75546,
+    "linea_inversion": "",
+    "presupuesto_total": "7464666,28",
+    "estado": "EN PROCESO"
+  }
+]

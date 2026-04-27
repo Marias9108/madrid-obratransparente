@@ -1,0 +1,77 @@
+[
+  {
+    "empresa": "UTE ORTIZ-ASFALTOS VICÁLVARO",
+    "puntuacion": 82.2,
+    "total_obras": 2840,
+    "direcciones_atendidas": 2334,
+    "recurrentes_penalizables": 29,
+    "emergencias_excluidas": 1640,
+    "tasa_recurrencia": 1.2,
+    "desglose": {
+      "base": 70,
+      "penalizacion_recurrencia": -5.0,
+      "bonus_volumen": 14.2,
+      "bonus_diversidad": 3
+    }
+  },
+  {
+    "empresa": "ACSA OBRAS E INFRAESTRUCTURAS",
+    "puntuacion": 76.9,
+    "total_obras": 4492,
+    "direcciones_atendidas": 3492,
+    "recurrentes_penalizables": 71,
+    "emergencias_excluidas": 2332,
+    "tasa_recurrencia": 2.0,
+    "desglose": {
+      "base": 70,
+      "penalizacion_recurrencia": -8.1,
+      "bonus_volumen": 15,
+      "bonus_diversidad": 0
+    }
+  },
+  {
+    "empresa": "COARSA",
+    "puntuacion": 74.2,
+    "total_obras": 2832,
+    "direcciones_atendidas": 2291,
+    "recurrentes_penalizables": 74,
+    "emergencias_excluidas": 1300,
+    "tasa_recurrencia": 3.2,
+    "desglose": {
+      "base": 70,
+      "penalizacion_recurrencia": -12.9,
+      "bonus_volumen": 14.2,
+      "bonus_diversidad": 3
+    }
+  },
+  {
+    "empresa": "ACEINSA",
+    "puntuacion": 68.9,
+    "total_obras": 1761,
+    "direcciones_atendidas": 1370,
+    "recurrentes_penalizables": 34,
+    "emergencias_excluidas": 842,
+    "tasa_recurrencia": 2.5,
+    "desglose": {
+      "base": 70,
+      "penalizacion_recurrencia": -9.9,
+      "bonus_volumen": 8.8,
+      "bonus_diversidad": 0
+    }
+  },
+  {
+    "empresa": "IMESAPI",
+    "puntuacion": 64.7,
+    "total_obras": 2173,
+    "direcciones_atendidas": 1663,
+    "recurrentes_penalizables": 67,
+    "emergencias_excluidas": 891,
+    "tasa_recurrencia": 4.0,
+    "desglose": {
+      "base": 70,
+      "penalizacion_recurrencia": -16.1,
+      "bonus_volumen": 10.9,
+      "bonus_diversidad": 0
+    }
+  }
+]
