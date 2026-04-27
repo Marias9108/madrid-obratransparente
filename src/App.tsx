@@ -1,9 +1,9 @@
 import { useState, useEffect, useMemo, useRef } from 'react'
-import { MapContainer, TileLayer, CircleMarker, Marker, Popup, Tooltip as LeafletTooltip, GeoJSON } from 'react-leaflet'
+import { MapContainer, TileLayer, CircleMarker, Marker, Tooltip as LeafletTooltip, GeoJSON } from 'react-leaflet'
 import L from 'leaflet'
 import {
-  BarChart, Bar, XAxis, YAxis, Tooltip, ResponsiveContainer, Cell,
-  CartesianGrid, AreaChart, Area
+  BarChart, Bar, XAxis, YAxis, Tooltip, ResponsiveContainer,
+  CartesianGrid
 } from 'recharts'
 import {
   Building2, Star, TreePine, MessageCircle, Send, Camera,
@@ -62,6 +62,7 @@ interface Constructora {
 interface ArbolIncidente {
   lat: number; lon: number; tipo: string; distrito: string
   barrio: string; detalle: string; fecha: string; ano: string
+  direccion?: string
 }
 interface IncidenciaCritica {
   obra: string; distrito: string; tipo_incidencia: string; categoria: string
@@ -136,10 +137,6 @@ const categoriaIcon: Record<string, string> = {
 function PanelTab({ kpis, incidencias }: { kpis: KPIs; incidencias: IncidenciaCritica[] }) {
   const [filtroCategoria, setFiltroCategoria] = useState('Todas')
   const [expandedIdx, setExpandedIdx] = useState<number | null>(null)
-
-  const paralizadas = useMemo(() => incidencias.filter(i =>
-    i.estado.toLowerCase().includes('paralizada') || i.tipo_incidencia.includes('paralizada')
-  ), [incidencias])
 
   const categorias = useMemo(() => {
     const s = new Set(incidencias.map(i => i.categoria))
@@ -1133,10 +1130,10 @@ function FloatingAssistant({ kpis, constructoras, prediccion }: {
 DATOS ACTUALES:
 - Obras urbanas registradas: ${formatNum(kpis.total_obras_urbanas)}
 - Direcciones con obras recurrentes (3+ intervenciones): ${formatNum(kpis.total_recurrentes)}
-- Obras activas: ${formatNum(kpis.total_obras_activas)}
-- Incidencias críticas: ${formatNum(kpis.incidencias_criticas)}
+- Obras activas: ${formatNum(kpis.num_obras_activas)}
+- Incidencias críticas: ${formatNum(kpis.pct_incidencias_criticas)}
 - Árboles en mal estado: ${formatNum(kpis.total_arboles_riesgo)}
-- Obras ejecutadas en plazo (2025): ${kpis.obras_en_plazo_pct}%
+- Obras ejecutadas en plazo (2025): ${kpis.pct_obras_en_plazo}%
 - Presupuesto Original 2026: ${formatEur(prediccion.presupuesto_original)}
 - Desviación histórica media: ${prediccion.desviacion_historica_pct}%
 - Gasto final estimado 2026: ${formatEur(prediccion.presupuesto_estimado_final)}
@@ -1219,13 +1216,13 @@ Si no tienes datos suficientes para responder algo, dilo honestamente.`
       return '🌳 Se han registrado ' + formatNum(kpis.total_arboles_riesgo) + ' incidencias de arbolado en los últimos años.\n\nConsulta la pestaña "Árboles" para ver:\n• Mapa de incidencias por ubicación\n• Gráfico de árboles en mal estado por distrito (Top 15)\n• Filtros por distrito y año'
 
     if (q.includes('incidencia') || q.includes('crítica') || q.includes('critica') || q.includes('alerta'))
-      return '⚠️ Hay ' + formatNum(kpis.incidencias_criticas) + ' incidencias críticas activas. Incluyen obras paralizadas, protestas vecinales, denuncias judiciales y riesgos sanitarios.\n\nConsulta el panel "General" para ver el listado completo con nivel de impacto y estado.'
+      return '⚠️ Hay ' + formatNum(kpis.pct_incidencias_criticas) + ' incidencias críticas activas. Incluyen obras paralizadas, protestas vecinales, denuncias judiciales y riesgos sanitarios.\n\nConsulta el panel "General" para ver el listado completo con nivel de impacto y estado.'
 
     if (q.includes('plazo') || q.includes('retraso') || q.includes('puntual'))
-      return '⏱️ El ' + kpis.obras_en_plazo_pct + '% de las obras se ejecutaron en plazo en 2025.\n\nEsto significa que casi la mitad de las obras sufren retrasos. Los factores principales son:\n• Ampliaciones de plazo solicitadas por constructoras\n• Imprevistos en subsuelo\n• Trámites administrativos\n\nConsulta "Obras Mayores" para ver el detalle por obra.'
+      return '⏱️ El ' + kpis.pct_obras_en_plazo + '% de las obras se ejecutaron en plazo en 2025.\n\nEsto significa que casi la mitad de las obras sufren retrasos. Los factores principales son:\n• Ampliaciones de plazo solicitadas por constructoras\n• Imprevistos en subsuelo\n• Trámites administrativos\n\nConsulta "Obras Mayores" para ver el detalle por obra.'
 
     if (q.includes('activa') || q.includes('en curso') || q.includes('ejecut'))
-      return 'Actualmente hay ' + formatNum(kpis.total_obras_activas) + ' obras activas en la ciudad de Madrid.\n\nPuedes verlas en detalle en las pestañas "Obras Urbanas" (mantenimiento) y "Obras Mayores" (grandes proyectos).'
+      return 'Actualmente hay ' + formatNum(kpis.num_obras_activas) + ' obras activas en la ciudad de Madrid.\n\nPuedes verlas en detalle en las pestañas "Obras Urbanas" (mantenimiento) y "Obras Mayores" (grandes proyectos).'
 
     if (q.includes('hola') || q.includes('buenos') || q.includes('buenas'))
       return '¡Hola! Soy el asistente de Madrid ObraTransparente. Puedo ayudarte con:\n\n• Análisis de constructoras y licitaciones\n• Presupuesto y desviaciones\n• Obras recurrentes y cómo evitarlas\n• Inversión por distrito\n• Incidencias críticas\n• Arbolado en mal estado\n\n¿Sobre qué quieres saber?'
