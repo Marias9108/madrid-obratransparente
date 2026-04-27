@@ -95,9 +95,11 @@ function formatEur(n: number) {
 }
 function formatNum(n: number) { return n.toLocaleString('es-ES') }
 
+const BASE = import.meta.env.BASE_URL
+
 function useData<T>(url: string, fallback: T): T {
   const [data, setData] = useState<T>(fallback)
-  useEffect(() => { fetch(url).then(r => r.json()).then(setData).catch(() => {}) }, [url])
+  useEffect(() => { fetch(BASE + url).then(r => r.json()).then(setData).catch(() => {}) }, [url])
   return data
 }
 
@@ -870,7 +872,7 @@ function DistrictMap({ presupuestos }: { presupuestos: PresupuestoDistrito[] }) 
   const [hoveredDist, setHoveredDist] = useState<string | null>(null)
 
   useEffect(() => {
-    fetch('/distritos_inversion.geojson')
+    fetch(BASE + 'distritos_inversion.geojson')
       .then(r => r.json())
       .then(d => setGeojsonData(d))
       .catch(() => {})
@@ -1331,22 +1333,22 @@ Si no tienes datos suficientes para responder algo, dilo honestamente.`
 function App() {
   const [tab, setTab] = useState<Tab>('General')
 
-  const kpis = useData<KPIs>('/kpis.json', {
+  const kpis = useData<KPIs>('kpis.json', {
     pct_obras_en_plazo: 0, desviacion_media_presupuesto: 0, num_obras_activas: 0,
     pct_incidencias_criticas: 0, total_obras_mayores: 0, total_obras_urbanas: 0,
     total_licencias: 0, total_sanciones: 0, total_recurrentes: 0,
     total_arboles_riesgo: 0, presupuesto_total: 0, total_constructoras: 0,
     total_edificios_publicos: 0
   })
-  const obrasMayores = useData<ObraMayor[]>('/obras_mayores.json', [])
-  const alertasConflictos = useData<AlertaConflicto[]>('/alertas_conflictos.json', [])
-  const obrasUrbanas = useData<ObraUrbana[]>('/obras_urbanas.json', [])
-  const constructoras = useData<Constructora[]>('/constructoras.json', [])
-  const arboles = useData<ArbolIncidente[]>('/arboles.json', [])
-  const presupuestos = useData<PresupuestoDistrito[]>('/presupuesto_distritos.json', [])
-  const edificios = useData<EdificioPublico[]>('/edificios_publicos.json', [])
-  const incidencias = useData<IncidenciaCritica[]>('/incidencias_criticas.json', [])
-  const prediccion = useData<Prediccion>('/prediccion.json', {
+  const obrasMayores = useData<ObraMayor[]>('obras_mayores.json', [])
+  const alertasConflictos = useData<AlertaConflicto[]>('alertas_conflictos.json', [])
+  const obrasUrbanas = useData<ObraUrbana[]>('obras_urbanas.json', [])
+  const constructoras = useData<Constructora[]>('constructoras.json', [])
+  const arboles = useData<ArbolIncidente[]>('arboles.json', [])
+  const presupuestos = useData<PresupuestoDistrito[]>('presupuesto_distritos.json', [])
+  const edificios = useData<EdificioPublico[]>('edificios_publicos.json', [])
+  const incidencias = useData<IncidenciaCritica[]>('incidencias_criticas.json', [])
+  const prediccion = useData<Prediccion>('prediccion.json', {
     presupuesto_original: 0, desviacion_historica_pct: 0, factor_recurrencia: 0,
     factor_emergencias: 0, presupuesto_estimado_final: 0, desviacion_estimada: 0,
     factores: [], historico: []
