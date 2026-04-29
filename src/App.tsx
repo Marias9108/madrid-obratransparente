@@ -1144,7 +1144,7 @@ DATOS ACTUALES:
 - Peores constructoras: ${bot3.map(c => c.empresa + ' (' + c.estrellas.toFixed(1) + '★)').join(', ')}
 - Total constructoras evaluadas: ${constructoras.length}
 
-Fuentes: datos.madrid.es, presupuestosabiertos.madrid.es, notas de prensa madrid.es.
+Fuentes: datos.madrid.es, CNMC, PLACSP, ROLECE, Tribunal de Cuentas, presupuestosabiertos.madrid.es, notas de prensa madrid.es.
 Si no tienes datos suficientes para responder algo, dilo honestamente.`
   }
 
@@ -1402,7 +1402,7 @@ function App() {
       <footer className="bg-white border-t border-gray-200 mt-8 py-4">
         <div className="max-w-7xl mx-auto px-4 text-center text-xs text-gray-400">
           <p>Madrid ObraTransparente | Datos abiertos del Ayuntamiento de Madrid (datos.madrid.es)</p>
-          <p className="mt-1">Fuentes: Actividad Contractual, Licencias de Obras, Avisos Ciudadanos, Inversiones, Sanciones, Arbolado, Presupuestos</p>
+          <p className="mt-1">Fuentes: datos.madrid.es, CNMC, PLACSP, ROLECE, Tribunal de Cuentas, presupuestosabiertos.madrid.es, notas de prensa madrid.es</p>
         </div>
       </footer>
 

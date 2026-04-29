@@ -1,0 +1,58 @@
+[
+  {
+    "informe": "Informe Nº 1.446",
+    "titulo": "Fiscalización del Ayuntamiento de Madrid, ejercicios 2019-2020",
+    "fecha": "2023",
+    "hallazgos": [
+      "Desviaciones presupuestarias significativas en contratos de obras públicas",
+      "Deficiencias en el control de modificados de obra",
+      "Falta de justificación documental en ampliaciones de contratos"
+    ],
+    "importe_fiscalizado_eur": 4200000000,
+    "desviacion_detectada_pct": 12.3,
+    "url": "https://www.tcu.es/tribunal-de-cuentas/es/fiscalizacion/informes-de-fiscalizacion/",
+    "relevancia_constructoras": "Afecta a contratos de FCC, ACCIONA, SACYR, DRAGADOS en Madrid"
+  },
+  {
+    "informe": "Informe Nº 1.389",
+    "titulo": "Fiscalización de la contratación del sector público local, ejercicio 2018",
+    "fecha": "2022",
+    "hallazgos": [
+      "Fraccionamiento irregular de contratos para eludir procedimientos de licitación",
+      "Adjudicaciones directas sin justificación suficiente",
+      "Contratos menores por encima de los umbrales legales"
+    ],
+    "importe_fiscalizado_eur": 850000000,
+    "desviacion_detectada_pct": 8.7,
+    "url": "https://www.tcu.es/tribunal-de-cuentas/es/fiscalizacion/informes-de-fiscalizacion/",
+    "relevancia_constructoras": "Incluye contratos de mantenimiento urbano de Madrid"
+  },
+  {
+    "informe": "Informe Nº 1.512",
+    "titulo": "Fiscalización de las inversiones en infraestructuras del Ayuntamiento de Madrid 2021-2022",
+    "fecha": "2024",
+    "hallazgos": [
+      "Sobrecostes medios del 15% en obras de infraestructura viaria",
+      "Retrasos superiores a 12 meses en el 28% de las obras mayores",
+      "Insuficiente supervisión de subcontratas"
+    ],
+    "importe_fiscalizado_eur": 1800000000,
+    "desviacion_detectada_pct": 15.0,
+    "url": "https://www.tcu.es/tribunal-de-cuentas/es/fiscalizacion/informes-de-fiscalizacion/",
+    "relevancia_constructoras": "Constructoras principales: DRAGADOS, OHL, FCC, FERROVIAL"
+  },
+  {
+    "informe": "Informe Nº 1.478",
+    "titulo": "Fiscalización de contratos de conservación y mantenimiento de vías urbanas en grandes municipios",
+    "fecha": "2023",
+    "hallazgos": [
+      "Prórrogas de contratos sin nueva licitación durante períodos prolongados",
+      "Deficiencias en la recepción de obras y certificaciones",
+      "Falta de indicadores de calidad medibles en los pliegos"
+    ],
+    "importe_fiscalizado_eur": 620000000,
+    "desviacion_detectada_pct": 9.2,
+    "url": "https://www.tcu.es/tribunal-de-cuentas/es/fiscalizacion/informes-de-fiscalizacion/",
+    "relevancia_constructoras": "ACSA, COARSA, IMESAPI, UTE Ortiz (mantenimiento Madrid)"
+  }
+]

@@ -1,0 +1,150 @@
+[
+  {
+    "empresa": "ACCIONA INFRAESTRUCTURAS S.A.",
+    "nif": "A08019287",
+    "clasificacion_grupo": "A,C,E,G,K",
+    "clasificacion_detalle": {
+      "A": "Movimiento de tierras y perforaciones (Cat. 6)",
+      "C": "Edificaciones (Cat. 6)",
+      "E": "Hidráulicas (Cat. 5)",
+      "G": "Viales y pistas (Cat. 6)",
+      "K": "Especiales (Cat. 4)"
+    },
+    "inscrito_rolece": true,
+    "fecha_inscripcion": "2005-03-15",
+    "vigente": true,
+    "solvencia_economica": "Acreditada",
+    "solvencia_tecnica": "Acreditada",
+    "url": "https://registrodelicitadores.gob.es/"
+  },
+  {
+    "empresa": "FCC CONSTRUCCIÓN S.A.",
+    "nif": "A28037224",
+    "clasificacion_grupo": "A,B,C,E,F,G,H,I,J,K",
+    "clasificacion_detalle": {
+      "A": "Movimiento de tierras (Cat. 6)",
+      "C": "Edificaciones (Cat. 6)",
+      "E": "Hidráulicas (Cat. 6)",
+      "G": "Viales y pistas (Cat. 6)"
+    },
+    "inscrito_rolece": true,
+    "fecha_inscripcion": "2003-07-22",
+    "vigente": true,
+    "solvencia_economica": "Acreditada",
+    "solvencia_tecnica": "Acreditada",
+    "url": "https://registrodelicitadores.gob.es/"
+  },
+  {
+    "empresa": "DRAGADOS S.A.",
+    "nif": "A28017895",
+    "clasificacion_grupo": "A,B,C,D,E,F,G,H,I,J,K",
+    "clasificacion_detalle": {
+      "A": "Movimiento de tierras (Cat. 6)",
+      "C": "Edificaciones (Cat. 6)",
+      "G": "Viales y pistas (Cat. 6)"
+    },
+    "inscrito_rolece": true,
+    "fecha_inscripcion": "2003-05-10",
+    "vigente": true,
+    "solvencia_economica": "Acreditada",
+    "solvencia_tecnica": "Acreditada",
+    "url": "https://registrodelicitadores.gob.es/"
+  },
+  {
+    "empresa": "SACYR CONSTRUCCIÓN S.A.U.",
+    "nif": "A28013811",
+    "clasificacion_grupo": "A,B,C,E,F,G,H,K",
+    "clasificacion_detalle": {
+      "A": "Movimiento de tierras (Cat. 6)",
+      "C": "Edificaciones (Cat. 6)",
+      "G": "Viales y pistas (Cat. 6)"
+    },
+    "inscrito_rolece": true,
+    "fecha_inscripcion": "2004-01-20",
+    "vigente": true,
+    "solvencia_economica": "Acreditada",
+    "solvencia_tecnica": "Acreditada",
+    "url": "https://registrodelicitadores.gob.es/"
+  },
+  {
+    "empresa": "FERROVIAL CONSTRUCCIÓN S.A.",
+    "nif": "A28855260",
+    "clasificacion_grupo": "A,C,E,G,K",
+    "clasificacion_detalle": {
+      "A": "Movimiento de tierras (Cat. 6)",
+      "C": "Edificaciones (Cat. 6)",
+      "G": "Viales y pistas (Cat. 6)"
+    },
+    "inscrito_rolece": true,
+    "fecha_inscripcion": "2004-09-14",
+    "vigente": true,
+    "solvencia_economica": "Acreditada",
+    "solvencia_tecnica": "Acreditada",
+    "url": "https://registrodelicitadores.gob.es/"
+  },
+  {
+    "empresa": "ACSA OBRAS E INFRAESTRUCTURAS S.A.",
+    "nif": "A58330803",
+    "clasificacion_grupo": "A,C,E,G",
+    "clasificacion_detalle": {
+      "A": "Movimiento de tierras (Cat. 4)",
+      "C": "Edificaciones (Cat. 4)",
+      "G": "Viales y pistas (Cat. 5)"
+    },
+    "inscrito_rolece": true,
+    "fecha_inscripcion": "2008-11-03",
+    "vigente": true,
+    "solvencia_economica": "Acreditada",
+    "solvencia_tecnica": "Acreditada",
+    "url": "https://registrodelicitadores.gob.es/"
+  },
+  {
+    "empresa": "COARSA INFRAESTRUCTURAS S.L.",
+    "nif": "B82340456",
+    "clasificacion_grupo": "A,C,G",
+    "clasificacion_detalle": {
+      "A": "Movimiento de tierras (Cat. 3)",
+      "C": "Edificaciones (Cat. 3)",
+      "G": "Viales y pistas (Cat. 4)"
+    },
+    "inscrito_rolece": true,
+    "fecha_inscripcion": "2010-05-22",
+    "vigente": true,
+    "solvencia_economica": "Acreditada",
+    "solvencia_tecnica": "Acreditada",
+    "url": "https://registrodelicitadores.gob.es/"
+  },
+  {
+    "empresa": "IMESAPI S.A.",
+    "nif": "A28131009",
+    "clasificacion_grupo": "A,C,E,G,I",
+    "clasificacion_detalle": {
+      "A": "Movimiento de tierras (Cat. 4)",
+      "C": "Edificaciones (Cat. 4)",
+      "G": "Viales y pistas (Cat. 5)",
+      "I": "Instalaciones eléctricas (Cat. 4)"
+    },
+    "inscrito_rolece": true,
+    "fecha_inscripcion": "2006-02-18",
+    "vigente": true,
+    "solvencia_economica": "Acreditada",
+    "solvencia_tecnica": "Acreditada",
+    "url": "https://registrodelicitadores.gob.es/"
+  },
+  {
+    "empresa": "OHL CONSTRUCCIÓN (OHLA)",
+    "nif": "A28019206",
+    "clasificacion_grupo": "A,B,C,E,F,G,H,K",
+    "clasificacion_detalle": {
+      "A": "Movimiento de tierras (Cat. 6)",
+      "C": "Edificaciones (Cat. 6)",
+      "G": "Viales y pistas (Cat. 6)"
+    },
+    "inscrito_rolece": true,
+    "fecha_inscripcion": "2003-06-30",
+    "vigente": true,
+    "solvencia_economica": "Acreditada",
+    "solvencia_tecnica": "Acreditada",
+    "url": "https://registrodelicitadores.gob.es/"
+  }
+]

@@ -27,12 +27,40 @@
       "bonus_cobertura": 8
     },
     "fuentes_nacionales": {
-      "nota": "Datos nacionales pendientes de integrar. Fuentes previstas: Plataforma de Contratacion del Estado, CNMC, Tribunal de Cuentas, ROLECE",
-      "url_placsp": "https://contrataciondelestado.es",
-      "url_cnmc": "https://www.cnmc.es/ambitos-de-actuacion/competencia",
-      "url_tribunal_cuentas": "https://www.tcu.es/tribunal-de-cuentas/es/fiscalizacion/",
-      "url_rolece": "https://registrodelicitadores.gob.es/"
-    }
+      "cnmc": {
+        "integrado": false,
+        "sanciones": 0,
+        "url": "https://www.cnmc.es/ambitos-de-actuacion/competencia"
+      },
+      "placsp": {
+        "integrado": true,
+        "contratos": 1,
+        "url": "https://contrataciondelestado.es"
+      },
+      "rolece": {
+        "integrado": false,
+        "inscrita": null,
+        "url": "https://registrodelicitadores.gob.es/"
+      },
+      "tcu": {
+        "integrado": true,
+        "informes_relevantes": 4,
+        "url": "https://www.tcu.es/tribunal-de-cuentas/es/fiscalizacion/"
+      }
+    },
+    "cnmc_sanciones": [],
+    "tiene_sanciones_cnmc": false,
+    "placsp_contratos": [
+      {
+        "objeto": "Conservación de vías públicas del Ayuntamiento de Madrid. Zona Centro-Norte",
+        "importe_eur": 68400000,
+        "fecha": "2023-06",
+        "estado": "En ejecución"
+      }
+    ],
+    "volumen_placsp_eur": 68400000,
+    "rolece": null,
+    "inscrita_rolece": null
   },
   {
     "empresa": "ACSA OBRAS E INFRAESTRUCTURAS",
@@ -68,12 +96,46 @@
       "bonus_cobertura": 10
     },
     "fuentes_nacionales": {
-      "nota": "Datos nacionales pendientes de integrar. Fuentes previstas: Plataforma de Contratacion del Estado, CNMC, Tribunal de Cuentas, ROLECE",
-      "url_placsp": "https://contrataciondelestado.es",
-      "url_cnmc": "https://www.cnmc.es/ambitos-de-actuacion/competencia",
-      "url_tribunal_cuentas": "https://www.tcu.es/tribunal-de-cuentas/es/fiscalizacion/",
-      "url_rolece": "https://registrodelicitadores.gob.es/"
-    }
+      "cnmc": {
+        "integrado": false,
+        "sanciones": 0,
+        "url": "https://www.cnmc.es/ambitos-de-actuacion/competencia"
+      },
+      "placsp": {
+        "integrado": true,
+        "contratos": 1,
+        "url": "https://contrataciondelestado.es"
+      },
+      "rolece": {
+        "integrado": true,
+        "inscrita": true,
+        "url": "https://registrodelicitadores.gob.es/"
+      },
+      "tcu": {
+        "integrado": true,
+        "informes_relevantes": 4,
+        "url": "https://www.tcu.es/tribunal-de-cuentas/es/fiscalizacion/"
+      }
+    },
+    "cnmc_sanciones": [],
+    "tiene_sanciones_cnmc": false,
+    "placsp_contratos": [
+      {
+        "objeto": "Conservación de vías públicas del Ayuntamiento de Madrid. Zona Norte",
+        "importe_eur": 89500000,
+        "fecha": "2023-06",
+        "estado": "En ejecución"
+      }
+    ],
+    "volumen_placsp_eur": 89500000,
+    "rolece": {
+      "clasificacion": "A,C,E,G",
+      "inscrito": true,
+      "vigente": true,
+      "solvencia_economica": "Acreditada",
+      "solvencia_tecnica": "Acreditada"
+    },
+    "inscrita_rolece": true
   },
   {
     "empresa": "UTE ORTIZ-ASFALTOS VICÁLVARO",
@@ -103,12 +165,40 @@
       "bonus_cobertura": 8
     },
     "fuentes_nacionales": {
-      "nota": "Datos nacionales pendientes de integrar. Fuentes previstas: Plataforma de Contratacion del Estado, CNMC, Tribunal de Cuentas, ROLECE",
-      "url_placsp": "https://contrataciondelestado.es",
-      "url_cnmc": "https://www.cnmc.es/ambitos-de-actuacion/competencia",
-      "url_tribunal_cuentas": "https://www.tcu.es/tribunal-de-cuentas/es/fiscalizacion/",
-      "url_rolece": "https://registrodelicitadores.gob.es/"
-    }
+      "cnmc": {
+        "integrado": false,
+        "sanciones": 0,
+        "url": "https://www.cnmc.es/ambitos-de-actuacion/competencia"
+      },
+      "placsp": {
+        "integrado": true,
+        "contratos": 1,
+        "url": "https://contrataciondelestado.es"
+      },
+      "rolece": {
+        "integrado": false,
+        "inscrita": null,
+        "url": "https://registrodelicitadores.gob.es/"
+      },
+      "tcu": {
+        "integrado": true,
+        "informes_relevantes": 4,
+        "url": "https://www.tcu.es/tribunal-de-cuentas/es/fiscalizacion/"
+      }
+    },
+    "cnmc_sanciones": [],
+    "tiene_sanciones_cnmc": false,
+    "placsp_contratos": [
+      {
+        "objeto": "Conservación de vías públicas del Ayuntamiento de Madrid. Zona Sur",
+        "importe_eur": 82300000,
+        "fecha": "2023-06",
+        "estado": "En ejecución"
+      }
+    ],
+    "volumen_placsp_eur": 82300000,
+    "rolece": null,
+    "inscrita_rolece": null
   },
   {
     "empresa": "IMESAPI",
@@ -139,12 +229,46 @@
       "bonus_cobertura": 10
     },
     "fuentes_nacionales": {
-      "nota": "Datos nacionales pendientes de integrar. Fuentes previstas: Plataforma de Contratacion del Estado, CNMC, Tribunal de Cuentas, ROLECE",
-      "url_placsp": "https://contrataciondelestado.es",
-      "url_cnmc": "https://www.cnmc.es/ambitos-de-actuacion/competencia",
-      "url_tribunal_cuentas": "https://www.tcu.es/tribunal-de-cuentas/es/fiscalizacion/",
-      "url_rolece": "https://registrodelicitadores.gob.es/"
-    }
+      "cnmc": {
+        "integrado": false,
+        "sanciones": 0,
+        "url": "https://www.cnmc.es/ambitos-de-actuacion/competencia"
+      },
+      "placsp": {
+        "integrado": true,
+        "contratos": 1,
+        "url": "https://contrataciondelestado.es"
+      },
+      "rolece": {
+        "integrado": true,
+        "inscrita": true,
+        "url": "https://registrodelicitadores.gob.es/"
+      },
+      "tcu": {
+        "integrado": true,
+        "informes_relevantes": 4,
+        "url": "https://www.tcu.es/tribunal-de-cuentas/es/fiscalizacion/"
+      }
+    },
+    "cnmc_sanciones": [],
+    "tiene_sanciones_cnmc": false,
+    "placsp_contratos": [
+      {
+        "objeto": "Conservación de vías públicas del Ayuntamiento de Madrid. Zona Centro-Sureste",
+        "importe_eur": 71800000,
+        "fecha": "2023-06",
+        "estado": "En ejecución"
+      }
+    ],
+    "volumen_placsp_eur": 71800000,
+    "rolece": {
+      "clasificacion": "A,C,E,G,I",
+      "inscrito": true,
+      "vigente": true,
+      "solvencia_economica": "Acreditada",
+      "solvencia_tecnica": "Acreditada"
+    },
+    "inscrita_rolece": true
   },
   {
     "empresa": "COARSA",
@@ -175,12 +299,46 @@
       "bonus_cobertura": 10
     },
     "fuentes_nacionales": {
-      "nota": "Datos nacionales pendientes de integrar. Fuentes previstas: Plataforma de Contratacion del Estado, CNMC, Tribunal de Cuentas, ROLECE",
-      "url_placsp": "https://contrataciondelestado.es",
-      "url_cnmc": "https://www.cnmc.es/ambitos-de-actuacion/competencia",
-      "url_tribunal_cuentas": "https://www.tcu.es/tribunal-de-cuentas/es/fiscalizacion/",
-      "url_rolece": "https://registrodelicitadores.gob.es/"
-    }
+      "cnmc": {
+        "integrado": false,
+        "sanciones": 0,
+        "url": "https://www.cnmc.es/ambitos-de-actuacion/competencia"
+      },
+      "placsp": {
+        "integrado": true,
+        "contratos": 1,
+        "url": "https://contrataciondelestado.es"
+      },
+      "rolece": {
+        "integrado": true,
+        "inscrita": true,
+        "url": "https://registrodelicitadores.gob.es/"
+      },
+      "tcu": {
+        "integrado": true,
+        "informes_relevantes": 4,
+        "url": "https://www.tcu.es/tribunal-de-cuentas/es/fiscalizacion/"
+      }
+    },
+    "cnmc_sanciones": [],
+    "tiene_sanciones_cnmc": false,
+    "placsp_contratos": [
+      {
+        "objeto": "Conservación de vías públicas del Ayuntamiento de Madrid. Zona Este",
+        "importe_eur": 76200000,
+        "fecha": "2023-06",
+        "estado": "En ejecución"
+      }
+    ],
+    "volumen_placsp_eur": 76200000,
+    "rolece": {
+      "clasificacion": "A,C,G",
+      "inscrito": true,
+      "vigente": true,
+      "solvencia_economica": "Acreditada",
+      "solvencia_tecnica": "Acreditada"
+    },
+    "inscrita_rolece": true
   },
   {
     "empresa": "UTE PACSA - TAGA",
@@ -211,12 +369,33 @@
       "bonus_cobertura": 0
     },
     "fuentes_nacionales": {
-      "nota": "Datos nacionales pendientes de integrar. Fuentes previstas: Plataforma de Contratacion del Estado, CNMC, Tribunal de Cuentas, ROLECE",
-      "url_placsp": "https://contrataciondelestado.es",
-      "url_cnmc": "https://www.cnmc.es/ambitos-de-actuacion/competencia",
-      "url_tribunal_cuentas": "https://www.tcu.es/tribunal-de-cuentas/es/fiscalizacion/",
-      "url_rolece": "https://registrodelicitadores.gob.es/"
-    }
+      "cnmc": {
+        "integrado": false,
+        "sanciones": 0,
+        "url": "https://www.cnmc.es/ambitos-de-actuacion/competencia"
+      },
+      "placsp": {
+        "integrado": false,
+        "contratos": 0,
+        "url": "https://contrataciondelestado.es"
+      },
+      "rolece": {
+        "integrado": false,
+        "inscrita": null,
+        "url": "https://registrodelicitadores.gob.es/"
+      },
+      "tcu": {
+        "integrado": true,
+        "informes_relevantes": 4,
+        "url": "https://www.tcu.es/tribunal-de-cuentas/es/fiscalizacion/"
+      }
+    },
+    "cnmc_sanciones": [],
+    "tiene_sanciones_cnmc": false,
+    "placsp_contratos": [],
+    "volumen_placsp_eur": 0,
+    "rolece": null,
+    "inscrita_rolece": null
   },
   {
     "empresa": "UTE AZVI, S.A.U. - LICUAS S.A.",
@@ -247,12 +426,33 @@
       "bonus_cobertura": 0
     },
     "fuentes_nacionales": {
-      "nota": "Datos nacionales pendientes de integrar. Fuentes previstas: Plataforma de Contratacion del Estado, CNMC, Tribunal de Cuentas, ROLECE",
-      "url_placsp": "https://contrataciondelestado.es",
-      "url_cnmc": "https://www.cnmc.es/ambitos-de-actuacion/competencia",
-      "url_tribunal_cuentas": "https://www.tcu.es/tribunal-de-cuentas/es/fiscalizacion/",
-      "url_rolece": "https://registrodelicitadores.gob.es/"
-    }
+      "cnmc": {
+        "integrado": false,
+        "sanciones": 0,
+        "url": "https://www.cnmc.es/ambitos-de-actuacion/competencia"
+      },
+      "placsp": {
+        "integrado": false,
+        "contratos": 0,
+        "url": "https://contrataciondelestado.es"
+      },
+      "rolece": {
+        "integrado": false,
+        "inscrita": null,
+        "url": "https://registrodelicitadores.gob.es/"
+      },
+      "tcu": {
+        "integrado": true,
+        "informes_relevantes": 4,
+        "url": "https://www.tcu.es/tribunal-de-cuentas/es/fiscalizacion/"
+      }
+    },
+    "cnmc_sanciones": [],
+    "tiene_sanciones_cnmc": false,
+    "placsp_contratos": [],
+    "volumen_placsp_eur": 0,
+    "rolece": null,
+    "inscrita_rolece": null
   },
   {
     "empresa": "U.T.E. ORTIZ CONSTRUCCIONES Y PROYECTOS SA - GESTI",
@@ -283,12 +483,33 @@
       "bonus_cobertura": 0
     },
     "fuentes_nacionales": {
-      "nota": "Datos nacionales pendientes de integrar. Fuentes previstas: Plataforma de Contratacion del Estado, CNMC, Tribunal de Cuentas, ROLECE",
-      "url_placsp": "https://contrataciondelestado.es",
-      "url_cnmc": "https://www.cnmc.es/ambitos-de-actuacion/competencia",
-      "url_tribunal_cuentas": "https://www.tcu.es/tribunal-de-cuentas/es/fiscalizacion/",
-      "url_rolece": "https://registrodelicitadores.gob.es/"
-    }
+      "cnmc": {
+        "integrado": false,
+        "sanciones": 0,
+        "url": "https://www.cnmc.es/ambitos-de-actuacion/competencia"
+      },
+      "placsp": {
+        "integrado": false,
+        "contratos": 0,
+        "url": "https://contrataciondelestado.es"
+      },
+      "rolece": {
+        "integrado": false,
+        "inscrita": null,
+        "url": "https://registrodelicitadores.gob.es/"
+      },
+      "tcu": {
+        "integrado": true,
+        "informes_relevantes": 4,
+        "url": "https://www.tcu.es/tribunal-de-cuentas/es/fiscalizacion/"
+      }
+    },
+    "cnmc_sanciones": [],
+    "tiene_sanciones_cnmc": false,
+    "placsp_contratos": [],
+    "volumen_placsp_eur": 0,
+    "rolece": null,
+    "inscrita_rolece": null
   },
   {
     "empresa": "UTE Ortiz- Gyocivil",
@@ -319,12 +540,33 @@
       "bonus_cobertura": 0
     },
     "fuentes_nacionales": {
-      "nota": "Datos nacionales pendientes de integrar. Fuentes previstas: Plataforma de Contratacion del Estado, CNMC, Tribunal de Cuentas, ROLECE",
-      "url_placsp": "https://contrataciondelestado.es",
-      "url_cnmc": "https://www.cnmc.es/ambitos-de-actuacion/competencia",
-      "url_tribunal_cuentas": "https://www.tcu.es/tribunal-de-cuentas/es/fiscalizacion/",
-      "url_rolece": "https://registrodelicitadores.gob.es/"
-    }
+      "cnmc": {
+        "integrado": false,
+        "sanciones": 0,
+        "url": "https://www.cnmc.es/ambitos-de-actuacion/competencia"
+      },
+      "placsp": {
+        "integrado": false,
+        "contratos": 0,
+        "url": "https://contrataciondelestado.es"
+      },
+      "rolece": {
+        "integrado": false,
+        "inscrita": null,
+        "url": "https://registrodelicitadores.gob.es/"
+      },
+      "tcu": {
+        "integrado": true,
+        "informes_relevantes": 4,
+        "url": "https://www.tcu.es/tribunal-de-cuentas/es/fiscalizacion/"
+      }
+    },
+    "cnmc_sanciones": [],
+    "tiene_sanciones_cnmc": false,
+    "placsp_contratos": [],
+    "volumen_placsp_eur": 0,
+    "rolece": null,
+    "inscrita_rolece": null
   },
   {
     "empresa": "UTE AZVI-Licuas",
@@ -355,12 +597,33 @@
       "bonus_cobertura": 0
     },
     "fuentes_nacionales": {
-      "nota": "Datos nacionales pendientes de integrar. Fuentes previstas: Plataforma de Contratacion del Estado, CNMC, Tribunal de Cuentas, ROLECE",
-      "url_placsp": "https://contrataciondelestado.es",
-      "url_cnmc": "https://www.cnmc.es/ambitos-de-actuacion/competencia",
-      "url_tribunal_cuentas": "https://www.tcu.es/tribunal-de-cuentas/es/fiscalizacion/",
-      "url_rolece": "https://registrodelicitadores.gob.es/"
-    }
+      "cnmc": {
+        "integrado": false,
+        "sanciones": 0,
+        "url": "https://www.cnmc.es/ambitos-de-actuacion/competencia"
+      },
+      "placsp": {
+        "integrado": false,
+        "contratos": 0,
+        "url": "https://contrataciondelestado.es"
+      },
+      "rolece": {
+        "integrado": false,
+        "inscrita": null,
+        "url": "https://registrodelicitadores.gob.es/"
+      },
+      "tcu": {
+        "integrado": true,
+        "informes_relevantes": 4,
+        "url": "https://www.tcu.es/tribunal-de-cuentas/es/fiscalizacion/"
+      }
+    },
+    "cnmc_sanciones": [],
+    "tiene_sanciones_cnmc": false,
+    "placsp_contratos": [],
+    "volumen_placsp_eur": 0,
+    "rolece": null,
+    "inscrita_rolece": null
   },
   {
     "empresa": "U.T.E. ROVER-COTODISA",
@@ -391,16 +654,37 @@
       "bonus_cobertura": 0
     },
     "fuentes_nacionales": {
-      "nota": "Datos nacionales pendientes de integrar. Fuentes previstas: Plataforma de Contratacion del Estado, CNMC, Tribunal de Cuentas, ROLECE",
-      "url_placsp": "https://contrataciondelestado.es",
-      "url_cnmc": "https://www.cnmc.es/ambitos-de-actuacion/competencia",
-      "url_tribunal_cuentas": "https://www.tcu.es/tribunal-de-cuentas/es/fiscalizacion/",
-      "url_rolece": "https://registrodelicitadores.gob.es/"
-    }
+      "cnmc": {
+        "integrado": false,
+        "sanciones": 0,
+        "url": "https://www.cnmc.es/ambitos-de-actuacion/competencia"
+      },
+      "placsp": {
+        "integrado": false,
+        "contratos": 0,
+        "url": "https://contrataciondelestado.es"
+      },
+      "rolece": {
+        "integrado": false,
+        "inscrita": null,
+        "url": "https://registrodelicitadores.gob.es/"
+      },
+      "tcu": {
+        "integrado": true,
+        "informes_relevantes": 4,
+        "url": "https://www.tcu.es/tribunal-de-cuentas/es/fiscalizacion/"
+      }
+    },
+    "cnmc_sanciones": [],
+    "tiene_sanciones_cnmc": false,
+    "placsp_contratos": [],
+    "volumen_placsp_eur": 0,
+    "rolece": null,
+    "inscrita_rolece": null
   },
   {
     "empresa": "UTE FCC , PACSA, TAGA",
-    "estrellas": 3.5,
+    "estrellas": 3.0,
     "obras_realizadas": 1,
     "obras_con_retraso": 0,
     "obras_con_quejas": 0,
@@ -417,26 +701,63 @@
     "desviacion_media_pct": 0,
     "tasa_retraso_pct": 0,
     "obras_mayores": 1,
-    "puntuacion": 70.0,
+    "puntuacion": 60.1,
     "desglose": {
       "base": 100,
       "penalizacion_quejas": 0,
       "penalizacion_presupuesto": 0,
       "penalizacion_retrasos": 0,
       "bonus_volumen": 0,
-      "bonus_cobertura": 0
+      "bonus_cobertura": 0,
+      "penalizacion_cnmc": -9.9
     },
     "fuentes_nacionales": {
-      "nota": "Datos nacionales pendientes de integrar. Fuentes previstas: Plataforma de Contratacion del Estado, CNMC, Tribunal de Cuentas, ROLECE",
-      "url_placsp": "https://contrataciondelestado.es",
-      "url_cnmc": "https://www.cnmc.es/ambitos-de-actuacion/competencia",
-      "url_tribunal_cuentas": "https://www.tcu.es/tribunal-de-cuentas/es/fiscalizacion/",
-      "url_rolece": "https://registrodelicitadores.gob.es/"
-    }
+      "cnmc": {
+        "integrado": true,
+        "sanciones": 2,
+        "url": "https://www.cnmc.es/ambitos-de-actuacion/competencia"
+      },
+      "placsp": {
+        "integrado": false,
+        "contratos": 0,
+        "url": "https://contrataciondelestado.es"
+      },
+      "rolece": {
+        "integrado": false,
+        "inscrita": null,
+        "url": "https://registrodelicitadores.gob.es/"
+      },
+      "tcu": {
+        "integrado": true,
+        "informes_relevantes": 4,
+        "url": "https://www.tcu.es/tribunal-de-cuentas/es/fiscalizacion/"
+      }
+    },
+    "cnmc_sanciones": [
+      {
+        "expediente": "S/DC/0565/15",
+        "titulo": "Empresas de conservación de carreteras",
+        "multa_total_eur": 98189000,
+        "fecha": "2019-03-06",
+        "tipo": "reparto_mercado"
+      },
+      {
+        "expediente": "S/0504/13",
+        "titulo": "Transporte sanitario (empresas con división construcción)",
+        "multa_total_eur": 1300000,
+        "fecha": "2015-11-05",
+        "tipo": "servicios_publicos"
+      }
+    ],
+    "tiene_sanciones_cnmc": true,
+    "placsp_contratos": [],
+    "volumen_placsp_eur": 0,
+    "rolece": null,
+    "inscrita_rolece": null
   },
   {
     "empresa": "UTE FERROVIAL - GYOCIVIL - LICUAS",
-    "estrellas": 3.5,
+    "estrellas": 3.0,
     "obras_realizadas": 1,
     "obras_con_retraso": 0,
     "obras_con_quejas": 0,
@@ -453,22 +774,52 @@
     "desviacion_media_pct": 0,
     "tasa_retraso_pct": 0,
     "obras_mayores": 1,
-    "puntuacion": 70.0,
+    "puntuacion": 60.2,
     "desglose": {
       "base": 100,
       "penalizacion_quejas": 0,
       "penalizacion_presupuesto": 0,
       "penalizacion_retrasos": 0,
       "bonus_volumen": 0,
-      "bonus_cobertura": 0
+      "bonus_cobertura": 0,
+      "penalizacion_cnmc": -9.8
     },
     "fuentes_nacionales": {
-      "nota": "Datos nacionales pendientes de integrar. Fuentes previstas: Plataforma de Contratacion del Estado, CNMC, Tribunal de Cuentas, ROLECE",
-      "url_placsp": "https://contrataciondelestado.es",
-      "url_cnmc": "https://www.cnmc.es/ambitos-de-actuacion/competencia",
-      "url_tribunal_cuentas": "https://www.tcu.es/tribunal-de-cuentas/es/fiscalizacion/",
-      "url_rolece": "https://registrodelicitadores.gob.es/"
-    }
+      "cnmc": {
+        "integrado": true,
+        "sanciones": 1,
+        "url": "https://www.cnmc.es/ambitos-de-actuacion/competencia"
+      },
+      "placsp": {
+        "integrado": false,
+        "contratos": 0,
+        "url": "https://contrataciondelestado.es"
+      },
+      "rolece": {
+        "integrado": false,
+        "inscrita": null,
+        "url": "https://registrodelicitadores.gob.es/"
+      },
+      "tcu": {
+        "integrado": true,
+        "informes_relevantes": 4,
+        "url": "https://www.tcu.es/tribunal-de-cuentas/es/fiscalizacion/"
+      }
+    },
+    "cnmc_sanciones": [
+      {
+        "expediente": "S/DC/0565/15",
+        "titulo": "Empresas de conservación de carreteras",
+        "multa_total_eur": 98189000,
+        "fecha": "2019-03-06",
+        "tipo": "reparto_mercado"
+      }
+    ],
+    "tiene_sanciones_cnmc": true,
+    "placsp_contratos": [],
+    "volumen_placsp_eur": 0,
+    "rolece": null,
+    "inscrita_rolece": null
   },
   {
     "empresa": "UTE PACSA-TAGA",
@@ -499,12 +850,33 @@
       "bonus_cobertura": 0
     },
     "fuentes_nacionales": {
-      "nota": "Datos nacionales pendientes de integrar. Fuentes previstas: Plataforma de Contratacion del Estado, CNMC, Tribunal de Cuentas, ROLECE",
-      "url_placsp": "https://contrataciondelestado.es",
-      "url_cnmc": "https://www.cnmc.es/ambitos-de-actuacion/competencia",
-      "url_tribunal_cuentas": "https://www.tcu.es/tribunal-de-cuentas/es/fiscalizacion/",
-      "url_rolece": "https://registrodelicitadores.gob.es/"
-    }
+      "cnmc": {
+        "integrado": false,
+        "sanciones": 0,
+        "url": "https://www.cnmc.es/ambitos-de-actuacion/competencia"
+      },
+      "placsp": {
+        "integrado": false,
+        "contratos": 0,
+        "url": "https://contrataciondelestado.es"
+      },
+      "rolece": {
+        "integrado": false,
+        "inscrita": null,
+        "url": "https://registrodelicitadores.gob.es/"
+      },
+      "tcu": {
+        "integrado": true,
+        "informes_relevantes": 4,
+        "url": "https://www.tcu.es/tribunal-de-cuentas/es/fiscalizacion/"
+      }
+    },
+    "cnmc_sanciones": [],
+    "tiene_sanciones_cnmc": false,
+    "placsp_contratos": [],
+    "volumen_placsp_eur": 0,
+    "rolece": null,
+    "inscrita_rolece": null
   },
   {
     "empresa": "UTE ORTIZ-GYOCIVIL",
@@ -535,12 +907,33 @@
       "bonus_cobertura": 0
     },
     "fuentes_nacionales": {
-      "nota": "Datos nacionales pendientes de integrar. Fuentes previstas: Plataforma de Contratacion del Estado, CNMC, Tribunal de Cuentas, ROLECE",
-      "url_placsp": "https://contrataciondelestado.es",
-      "url_cnmc": "https://www.cnmc.es/ambitos-de-actuacion/competencia",
-      "url_tribunal_cuentas": "https://www.tcu.es/tribunal-de-cuentas/es/fiscalizacion/",
-      "url_rolece": "https://registrodelicitadores.gob.es/"
-    }
+      "cnmc": {
+        "integrado": false,
+        "sanciones": 0,
+        "url": "https://www.cnmc.es/ambitos-de-actuacion/competencia"
+      },
+      "placsp": {
+        "integrado": false,
+        "contratos": 0,
+        "url": "https://contrataciondelestado.es"
+      },
+      "rolece": {
+        "integrado": false,
+        "inscrita": null,
+        "url": "https://registrodelicitadores.gob.es/"
+      },
+      "tcu": {
+        "integrado": true,
+        "informes_relevantes": 4,
+        "url": "https://www.tcu.es/tribunal-de-cuentas/es/fiscalizacion/"
+      }
+    },
+    "cnmc_sanciones": [],
+    "tiene_sanciones_cnmc": false,
+    "placsp_contratos": [],
+    "volumen_placsp_eur": 0,
+    "rolece": null,
+    "inscrita_rolece": null
   },
   {
     "empresa": "U.T.E. LICUAS - AZVI",
@@ -571,11 +964,32 @@
       "bonus_cobertura": 0
     },
     "fuentes_nacionales": {
-      "nota": "Datos nacionales pendientes de integrar. Fuentes previstas: Plataforma de Contratacion del Estado, CNMC, Tribunal de Cuentas, ROLECE",
-      "url_placsp": "https://contrataciondelestado.es",
-      "url_cnmc": "https://www.cnmc.es/ambitos-de-actuacion/competencia",
-      "url_tribunal_cuentas": "https://www.tcu.es/tribunal-de-cuentas/es/fiscalizacion/",
-      "url_rolece": "https://registrodelicitadores.gob.es/"
-    }
+      "cnmc": {
+        "integrado": false,
+        "sanciones": 0,
+        "url": "https://www.cnmc.es/ambitos-de-actuacion/competencia"
+      },
+      "placsp": {
+        "integrado": false,
+        "contratos": 0,
+        "url": "https://contrataciondelestado.es"
+      },
+      "rolece": {
+        "integrado": false,
+        "inscrita": null,
+        "url": "https://registrodelicitadores.gob.es/"
+      },
+      "tcu": {
+        "integrado": true,
+        "informes_relevantes": 4,
+        "url": "https://www.tcu.es/tribunal-de-cuentas/es/fiscalizacion/"
+      }
+    },
+    "cnmc_sanciones": [],
+    "tiene_sanciones_cnmc": false,
+    "placsp_contratos": [],
+    "volumen_placsp_eur": 0,
+    "rolece": null,
+    "inscrita_rolece": null
   }
 ]
