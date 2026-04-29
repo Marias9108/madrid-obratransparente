@@ -55,8 +55,10 @@ interface Constructora {
     penalizacion_retrasos: number; bonus_volumen: number; bonus_cobertura: number
   }
   fuentes_nacionales?: {
-    nota: string; url_placsp: string; url_cnmc: string
-    url_tribunal_cuentas: string; url_rolece: string
+    cnmc?: { integrado: boolean; sanciones: number; url: string }
+    placsp?: { integrado: boolean; contratos: number; url: string }
+    rolece?: { integrado: boolean; inscrita: boolean | null; url: string }
+    tcu?: { integrado: boolean; informes_relevantes: number; url: string }
   }
 }
 interface ArbolIncidente {
@@ -730,9 +732,23 @@ function ConstructorasTab({ constructoras }: { constructoras: Constructora[] }) 
                       <b>Fuentes:</b> Avisos ciudadanos (Linea Madrid), Inversiones del Ayuntamiento, Licencias de obras, Contratos publicos de datos.madrid.es
                     </p>
                     {c.fuentes_nacionales && (
-                      <p className="text-xs text-blue-500 mt-1">
-                        <b>Pendiente:</b> {c.fuentes_nacionales.nota}
-                      </p>
+                      <div className="mt-1 flex flex-wrap gap-1">
+                        {c.fuentes_nacionales.cnmc?.integrado && (
+                          <span className="text-[10px] bg-red-100 text-red-700 px-2 py-0.5 rounded-full">CNMC: {c.fuentes_nacionales.cnmc.sanciones} sancion(es)</span>
+                        )}
+                        {c.fuentes_nacionales.placsp?.integrado && (
+                          <span className="text-[10px] bg-green-100 text-green-700 px-2 py-0.5 rounded-full">PLACSP: {c.fuentes_nacionales.placsp.contratos} contrato(s)</span>
+                        )}
+                        {c.fuentes_nacionales.rolece?.inscrita && (
+                          <span className="text-[10px] bg-indigo-100 text-indigo-700 px-2 py-0.5 rounded-full">ROLECE: inscrita</span>
+                        )}
+                        {c.fuentes_nacionales.tcu?.integrado && (
+                          <span className="text-[10px] bg-amber-100 text-amber-700 px-2 py-0.5 rounded-full">TCU: {c.fuentes_nacionales.tcu.informes_relevantes} informe(s)</span>
+                        )}
+                        {!c.fuentes_nacionales.cnmc?.integrado && !c.fuentes_nacionales.placsp?.integrado && !c.fuentes_nacionales.rolece?.inscrita && (
+                          <span className="text-[10px] text-gray-400">Sin coincidencias en fuentes nacionales</span>
+                        )}
+                      </div>
                     )}
                   </div>
                 </div>
