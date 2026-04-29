@@ -745,7 +745,7 @@ function ConstructorasTab({ constructoras }: { constructoras: Constructora[] }) 
                         {c.fuentes_nacionales.tcu?.integrado && (
                           <span className="text-[10px] bg-amber-100 text-amber-700 px-2 py-0.5 rounded-full">TCU: {c.fuentes_nacionales.tcu.informes_relevantes} informe(s)</span>
                         )}
-                        {!c.fuentes_nacionales.cnmc?.integrado && !c.fuentes_nacionales.placsp?.integrado && !c.fuentes_nacionales.rolece?.inscrita && (
+                        {!c.fuentes_nacionales.cnmc?.integrado && !c.fuentes_nacionales.placsp?.integrado && !c.fuentes_nacionales.rolece?.inscrita && !c.fuentes_nacionales.tcu?.integrado && (
                           <span className="text-[10px] text-gray-400">Sin coincidencias en fuentes nacionales</span>
                         )}
                       </div>
