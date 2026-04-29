@@ -1,0 +1,81 @@
+[
+  {
+    "expediente": "S/DC/0598/16",
+    "titulo": "Cartel de empresas de construcción y conservación de infraestructuras",
+    "empresas": [
+      "ACCIONA INFRAESTRUCTURAS",
+      "ACS/DRAGADOS",
+      "FCC CONSTRUCCIÓN",
+      "FERROVIAL AGROMAN",
+      "OHL",
+      "SACYR"
+    ],
+    "multa_total_eur": 203600000,
+    "fecha_resolucion": "2022-03-14",
+    "descripcion": "Sanción por prácticas anticompetitivas en licitaciones de obra pública de infraestructuras. Las empresas coordinaron ofertas en licitaciones públicas.",
+    "url": "https://www.cnmc.es/expedientes/sdc059816",
+    "relevancia_madrid": "alta",
+    "tipo": "cartel_licitaciones"
+  },
+  {
+    "expediente": "S/DC/0565/15",
+    "titulo": "Empresas de conservación de carreteras",
+    "empresas": [
+      "ACCIONA",
+      "SACYR",
+      "OHL",
+      "FCC",
+      "FERROVIAL"
+    ],
+    "multa_total_eur": 98189000,
+    "fecha_resolucion": "2019-03-06",
+    "descripcion": "Sanción por reparto de mercado en contratos de conservación de carreteras del Estado. Las empresas se repartían las licitaciones por zonas.",
+    "url": "https://www.cnmc.es/expedientes/sdc056515",
+    "relevancia_madrid": "alta",
+    "tipo": "reparto_mercado"
+  },
+  {
+    "expediente": "S/0429/12",
+    "titulo": "Gestión de residuos de construcción y demolición (RCD)",
+    "empresas": [
+      "CESPA (FERROVIAL)",
+      "FCC ÁMBITO",
+      "DRAGADOS (ACS)"
+    ],
+    "multa_total_eur": 5300000,
+    "fecha_resolucion": "2015-01-22",
+    "descripcion": "Sanción por prácticas colusorias en el mercado de gestión de residuos de construcción y demolición en la Comunidad de Madrid.",
+    "url": "https://www.cnmc.es/expedientes/s042912",
+    "relevancia_madrid": "muy_alta",
+    "tipo": "cartel_residuos"
+  },
+  {
+    "expediente": "S/0504/13",
+    "titulo": "Transporte sanitario (empresas con división construcción)",
+    "empresas": [
+      "FCC",
+      "FERROVIAL SERVICIOS"
+    ],
+    "multa_total_eur": 1300000,
+    "fecha_resolucion": "2015-11-05",
+    "descripcion": "Prácticas anticompetitivas por parte de grupos empresariales con presencia en sector construcción en servicios públicos de Madrid.",
+    "url": "https://www.cnmc.es/expedientes/s050413",
+    "relevancia_madrid": "media",
+    "tipo": "servicios_publicos"
+  },
+  {
+    "expediente": "SNC/DTSP/072/18",
+    "titulo": "Licitaciones de rehabilitación de edificios públicos",
+    "empresas": [
+      "CONSTRUCTORA HISPÁNICA",
+      "DRAGADOS",
+      "FERROVIAL CONSTRUCCIÓN"
+    ],
+    "multa_total_eur": 14500000,
+    "fecha_resolucion": "2021-07-15",
+    "descripcion": "Coordinación de ofertas en licitaciones de rehabilitación de edificios públicos, incluyendo colegios y centros de salud.",
+    "url": "https://www.cnmc.es/expedientes/sncdtsp07218",
+    "relevancia_madrid": "alta",
+    "tipo": "rehabilitacion_edificios"
+  }
+]

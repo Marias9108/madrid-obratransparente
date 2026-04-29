@@ -11,5 +11,18 @@
   "total_arboles_riesgo": 15155,
   "presupuesto_total": 3359483292.34,
   "total_constructoras": 16,
-  "total_edificios_publicos": 50
+  "total_edificios_publicos": 50,
+  "total_licencias_urbanisticas": 48434,
+  "total_cnmc_sanciones": 3,
+  "total_placsp_contratos": 8,
+  "total_rolece_registradas": 3,
+  "total_tcu_informes": 4,
+  "fuentes_integradas": {
+    "datos_madrid_es": 8,
+    "cnmc": 5,
+    "tcu": 4,
+    "placsp": 8,
+    "rolece": 9,
+    "licencias_urbanisticas": 48434
+  }
 }
